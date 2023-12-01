@@ -2,8 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/',
   title: "Der Wilde Westen RP",
   description: "Offizielles Wiki des Red Dead Redemption 2 Servers \"Der Wilde Westen Roleplay\".",
+
+  lastUpdated: false,
+  cleanUrls: true,
 
   locales: {
     root: {
