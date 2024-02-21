@@ -16,6 +16,13 @@ export default defineConfig({
     },
   },
 
+  head: [
+    [
+      "link",
+      { rel: "icon", type: "image/png", sizes: "32x32", href: "/dww-logo.png" },
+    ],
+  ],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/dww-logo.png",
