@@ -17,10 +17,7 @@ export default defineConfig({
   },
 
   head: [
-    [
-      "link",
-      { rel: "icon", type: "image/png", sizes: "32x32", href: "/dww-logo.png" },
-    ],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
 
   themeConfig: {
