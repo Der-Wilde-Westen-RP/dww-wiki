@@ -10,5 +10,8 @@ Innerhalb des Gewerbes (sowie jedem anderen Job, dort allerdings abweichend) gib
 | 1    | - Notizen<br>- Lager<br>- Crafting & Geld einzahlen                                      |
 | 2    | - Notizen<br>- Lager<br>- Crafting<br>- Geld ein- & auszahlen<br>- Mitarbeiterverwaltung |
 
+Die hier beschriebenen Werte sind die **Standardwerte**.
+Alle Berechtigungen können vom Gewerbeinhaber im nachhinein innerhalb der Society selbstständig angepasst werden.
+
 Die Berechtigung für die Auslage kann in jedem Betrieb selbst eingestellt werden.
 Ein Anpassen der Berechtigungen ist mit ausreichender Begründung im Support auf unserem [Discord](https://discord.gg/dww-rp) möglich.
