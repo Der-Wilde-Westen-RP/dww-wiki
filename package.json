@@ -1,8 +1,4 @@
 {
-  "name": "dww-wiki",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
