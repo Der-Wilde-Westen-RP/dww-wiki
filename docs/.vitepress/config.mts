@@ -25,7 +25,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/dww-logo.png",
+    logo: "./dww-logo.png",
 
     nav: [
       { text: 'Startseite', link: '/' },
