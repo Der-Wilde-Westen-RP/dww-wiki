@@ -3,6 +3,14 @@
 
 Teilweise kann es vorkommen, dass Ingame-UIs (z.B. Inventar, F6-Menu, Telegramm-Menu, etc.) eine sehr starke Verzögerung haben. Ihr könne dieses Problem lösen, indem Ihr die unten beschriebenen Schritt befolgt.
 
+## RedM Änderung
+
+Öffne die Einstellungen von RedM (Zahnrad-Icon oben rechts im Hauptmenu von RedM), wähle "Spiel" in der Navigationsleiste aus & aktiviere anschließend das Kästchen unter "NUI-Beschleunigung".
+
+![UI-Lag #New](../../assets/ui-lag-solution-one.png)
+
+## Manuelle Änderung (Alternative)
+
 ### Schritt 1
 
 Öffne den `Speicherordner von RedM` (Normalerweise findet ihr den Ordner indem ihr nach _`C:\Users\[Nutzer]\AppData\Roaming\CitizenFX`_ | => [Nutzer] durch euren Windows-Benutzername ersetzen | navigiert).
