@@ -153,7 +153,7 @@
  * -------------------------------------------------------------------------- */
 
 .VPNavBarMenuLink {
-  color: white !important;
+  color: gray !important;
 }
 
 .VPNavBarMenuLink.active {
