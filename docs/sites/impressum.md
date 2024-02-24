@@ -2,9 +2,9 @@
 
 ## Angaben gemäß § 5 TMG
 
-Thorsten Tetzner
-Schulstr. 5
-25779 Hennstedt
+Thorsten Tetzner  
+Schulstr. 5  
+25779 Hennstedt  
 
 ## Kontakt
 E-Mail: derwildewesten159@gmail.com
