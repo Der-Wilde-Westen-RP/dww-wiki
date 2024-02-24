@@ -27,7 +27,8 @@ export default defineConfig({
     nav: [
       { text: 'Startseite', link: '/' },
       { text: 'Website', link: 'https://der-wilde-westen-rp.de/' },
-      { text: 'Wiki', link: '/sites/wiki-start' }
+      { text: 'Wiki', link: '/sites/wiki-start' },
+      { text: 'Impressum', link: '/sites/impressum' }
     ],
     footer: {
       message: 'Der Wilde Westen Roleplay',
