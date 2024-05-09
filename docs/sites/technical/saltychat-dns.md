@@ -4,6 +4,8 @@
 
 Es kann aufgrund von falscher DNS Auflösung zu einem Problem können, bei dem SaltyChat dich nicht in den Ingame-Channel auf TeamSpeak zieht. Befolge die unten beschriebenen Schritte um das Problem zu beheben.
 
+## Methode #1
+
 ### Schritt 1
 
 Mache ein `Rechtsklick` auf das `Windows-Logo` auf deiner Taskleiste und gehe auf `Netzwerkverbindungen`.
@@ -57,3 +59,16 @@ Bestätige deine Auswahl mit `OK`.
 ----
 
 > Du kannst nun alle Fenster von den Einstellungen schließen und es erneut versuchen.
+
+----
+
+## Methode #2
+<Badge type="success" text="Für Experten."/>
+<Badge type="warning" text="Danke an miles_morales_1610 für diese Variante."/>
+
+1. Starte PowerShell im Administrator Modus.
+2. Füge folgenden Befehl in PowerShell ein: 
+````
+"`n127.0.0.1 lh.saltmine.de #saltychat fix`n127.0.0.1 lh.v10.network #saltychat fix" | Add-Content -Path C:\Windows\System32\drivers\etc\hosts
+````
+3. Bestätige deine Eingabe mit `ENTER`.
