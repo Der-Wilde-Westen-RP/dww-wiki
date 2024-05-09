@@ -63,7 +63,7 @@ Bestätige deine Auswahl mit `OK`.
 ----
 
 ## Methode #2
-<Badge type="success" text="Für Experten."/>
+<Badge type="tip" text="Für Experten."/>
 <Badge type="warning" text="Danke an miles_morales_1610 für diese Variante."/>
 
 1. Starte PowerShell im Administrator Modus.
