@@ -30,7 +30,7 @@ In diesem Fenster sollte unter anderem das Gerät `Ethernet` (wenn du per Ethern
 
 ![SaltyChat DNS #4](../../assets/saltychat-dns-four.png)
 
-## Schritt 5
+### Schritt 5
 
 Mache ein Doppelklick auf `Internetprotokoll, Version 4 (TCP/IPv4)`. In der unteren Auswahl, wähle `Folgende DNS-Serveradressen verwenden` und trage die in der Tabelle stehenden Werte wie in dem Bild zu sehen ein.
 
@@ -43,7 +43,7 @@ Mache ein Doppelklick auf `Internetprotokoll, Version 4 (TCP/IPv4)`. In der unte
 
 Bestätige deine Auswahl mit `OK`.
 
-## Schritt 6
+### Schritt 6
 
 Mache ein Doppelklick auf `Internetprotokoll, Version 6 (TCP/IPv6)`. In der unteren Auswahl, wähle `Folgende DNS-Serveradressen verwenden` und trage die in der Tabelle stehenden Werte wie in dem Bild zu sehen ein.
 
