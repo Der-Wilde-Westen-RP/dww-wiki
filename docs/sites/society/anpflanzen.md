@@ -10,5 +10,5 @@ Es ist zwar jedermann gestattet, für seinen Eigenbedarf Pflanzen anzubauen. Bit
 Während unseres Winter-Updates haben wir beschlossen, dass es durch die kalte Witterung und Bodenfrost nicht möglich ist, etwas anzupflanzen.
 :::
 
-Hier die `Anbaukarte` (Stand: `01.08.2023`) zur Refferenz:
+Hier die `Anbaukarte` (Stand: `24.08.2024`) zur Refferenz:
 ![Anbaukarte](../../assets/anbaukarte.png)
