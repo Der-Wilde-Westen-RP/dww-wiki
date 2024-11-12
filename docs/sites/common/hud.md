@@ -10,8 +10,8 @@ Das allgemeine HUD befindet sich unten links in der Ecke des Bildschirms. (_Zahl
 
 | Nummer |                    Bedeutung                    | Mögliche Werte                                                                  |
 | :----- | :---------------------------------------------: | :------------------------------------------------------------------------------ |
-| 1      |            [Trinken](metabolism.md)             | Nicht angezeigt => >75%<br> Weiß => 75%-50%<br>Geld => 50%-25%<br>Rot => 25%-0% |
-| 2      |             [Essen](metabolism.md)              | Nicht angezeigt => >75%<br> Weiß => 75%-50%<br>Geld => 50%-25%<br>Rot => 25%-0% |
+| 1      |            [Trinken](metabolism.md)             | Nicht angezeigt => >75%<br> Weiß => 75%-50%<br>Gelb => 50%-25%<br>Rot => 25%-0% |
+| 2      |             [Essen](metabolism.md)              | Nicht angezeigt => >75%<br> Weiß => 75%-50%<br>Gelb => 50%-25%<br>Rot => 25%-0% |
 | 3      | [Temperatur](time-and-temperatur.md#temperatur) | Weiß => Normal<br>Blau => Zu kalt<br>Rot => Zu warm                             |
 | 4      |                Sprachreichweite                 | Weiß => Normal<br>Grün => Sprechen<br>Durchgestrichen => Gemuted                |
 | 5      |                   Gesundheit                    | Red Dead Redemption Standard                                                    |
