@@ -41,6 +41,7 @@ export default defineConfig({
         items: [
           { text: 'Charakter', link: '/sites/common/character' },
           { text: 'HUD', link: '/sites/common/hud'  },
+          { text: 'Radial-Menu', link: '/sites/common/radial-menu'  },
           { text: 'Zeit & Temperatur', link: '/sites/common/time-and-temperatur'  },
           { text: 'Essen und Trinken', link: '/sites/common/metabolism' },
           { text: 'Standardsituationen', link: '/sites/common/situations' },
