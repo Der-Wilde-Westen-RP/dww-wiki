@@ -2,13 +2,13 @@
 
 ## Angaben gemäß § 5 TMG
 
-Thorsten Tetzner  
-Schulstr. 5  
-25779 Hennstedt  
+Der wilde Westen – Roleplay
+c/o Dirk Zeiher
+Lindenstraße 26
+72411 Bodelshausen
 
 ## Kontakt
-E-Mail: derwildewesten159@gmail.com
-
+E-Mail: zbbombe@gmail.com
 
 ## Disclaimer
 
