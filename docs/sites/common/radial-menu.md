@@ -4,7 +4,7 @@ Das Radial-Menu (aufrufbar über `F6`, siehe [Tastenbelegung](https://wiki.der-w
 
 ## AUFBAU DES RADIAL MENUS
 
-Das Radial-Menu ist, wie der Name bereits verrät, als Kreis ausgebaut. Es gibt verschiedene Untermenus die durch Hovern (bewegen des Mauszeigers auf die Menu-Option) aufgerufen werden können.
+Das Radial-Menu ist, wie der Name bereits verrät, als Kreis aufgebaut. Es gibt verschiedene Untermenus die durch Hovern (bewegen des Mauszeigers auf die Menu-Option) aufgerufen werden können.
 Es gibt Untermenus, die klappen sich ohne vorherigen Klick auf (bsp. wenn diese nur eine zusätzliche Reihe haben), andere müssen angeklickt werden, damit die unteren Optionen sichtbar werden.
 
 ![Grundlegendes Radialmenu](../../assets/radial_menu_base.png)
