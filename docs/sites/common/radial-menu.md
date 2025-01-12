@@ -16,4 +16,8 @@ Das Radial-Menu bietet die Möglichkeit zusätzliche Slots für verschiedenste A
 Diese Hotbar hat `9 Slots` und jeder Spieler hat `9 verschiedene Hotbars` zur Verfügung. Die Hotbars können sowohl mit den Pfeiltasten (`↑` & `↓`) als auch mit dem Mausrad gewechselt werden.
 Hotbar Slots können entfernt werden, indem man mit der Maus auf die Zugewiesene Aktion geht und diese anschließend durch Klicken entfernt.
 
+::: danger WICHTIG
+Hotbar Tasten für das Radial-Menu können ausschließlich genutzt werden, wenn das Radial-Menu geöffnet ist. 
+:::
+
 ![Grundlegendes Radialmenu](../../assets/radial_menu_hotbar.png)
