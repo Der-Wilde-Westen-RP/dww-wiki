@@ -22,7 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          fetch-depth: 
+          fetch-depth: 10
 
       - name: Setup Node
         uses: actions/setup-node@v3
@@ -38,7 +38,7 @@ jobs:
           npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
           touch docs/.vitepress/dist/.nojekyll
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: docs/.vitepress/dist
 
