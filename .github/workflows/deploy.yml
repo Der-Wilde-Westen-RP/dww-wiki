@@ -42,7 +42,7 @@ jobs:
           touch docs/.vitepress/dist/.nojekyll
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4  # NEUE v4-Aktion statt upload-pages-artifact
+        uses: actions/upload-artifact@v4  # NEU: Upload mit v4
         with:
           name: github-pages
           path: docs/.vitepress/dist
@@ -57,11 +57,11 @@ jobs:
     name: Deploy
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v4  # Passendes Pendant für v4
+        uses: actions/download-artifact@v4  # NEU: Download mit v4
         with:
           name: github-pages
           path: docs/.vitepress/dist
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v2  # Unverändert
