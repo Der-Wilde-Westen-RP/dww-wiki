@@ -69,7 +69,7 @@ Im RP sollen trotz Hardcore-Aspekt beiden Geschlechtern die gleichen Berufsmögl
 Was damals ebenfalls untypisch war, war unsere auf sehr deutsche Art und Weise bespielte Pünktlichkeit.
 Jede Siedlung stellte ihre Uhren so ein, dass die Sonne um 12:00 Uhr mittags ihren höchsten Punkt erreichte. Das bedeutete, dass die Zeit von Ort zu Ort leicht variierte. Beispielsweise konnte die Zeit in einer Stadt 10 Minuten hinter der Zeit in einer benachbarten Stadt liegen, was dahingehend bedeutete, dass leichte Verspätungen, sogar bei den Fahrplänen der Bahn, völlig normal und bekannt waren. 
 
-::: tip
+::: tip TIPP
 IC wird für Zeitangaben oft „zum X. Glockenschlag“ verwendet. Keine Ahnung welche Glocken hier schlagen sollen, aber die Begriffe a.m. (ante meridiem, „vor Mittag“) und p.m. (post meridiem, „nach Mittag“) stammen offensichtlich aus dem Lateinischen, wurden also bereits seit der Antike verwendet und waren bereits seit dem 18. Jahrhundert fest etabliert. Es ist also völlig legitim, sich um 8 Uhr p.m. am Abend zu verabreden.
 :::
 
@@ -127,7 +127,7 @@ Alle in der jeweiligen Kultur zur damaligen Zeit bekannten Feiertage gelten IC a
 
   Durch die weitere Vermischung der Einwanderer arteten die Streiche mit Anfang des 20. Jahrhunderts über die Jahre jedoch vielfach in Vandalismus aus, die in zerstörtem Eigentum, auf Dächern umgeparkten Autos, dem Überschütten von Personen mit z.B. Mehl gipfelten, sodass Halloween-Feierlichkeiten ab 1920 teilweise sogar verboten wurden oder nur noch unter offizieller Aufsicht stattfinden durften.  
 
-::: danger
+::: danger ACHTUNG
 Im RP bespielen wir zukünftig eine gesunde Mischung der damaligen und heutigen Festivitäten. Dekorationen, Verkleiden, Feste und kleinere Tricks, die als Schabernack und nicht als Übernatürliches erkannt werden dürfen, sind gewünscht und erlaubt.
 Das Team behält sich vor, entsprechende Events abzuhalten, die zumeist über das Schwarze Brett und Notizzettel angespielt werden. Diese Events sollen für den Spieler mithilfe dieser Ankündigungen IC logisch erklärbar sein, dennoch darf ein Restzweifel, ob hier alles wirklich so mit rechten Dingen zuging, ausgespielt werden.
 :::
@@ -183,7 +183,7 @@ Ein Cowboy, der mehrmals und oft monatelang in seinem Leben mit seinem Pferd auf
 
 Besonders widerspenstige Pferde wurden “gebrochen”, was sie zwar zu funktionierenden Arbeitstieren machte, ihnen jedoch oft auch jeglichen Lebenswillen raubte oder Verhaltensauffälligkeiten wie bspw. Aggressionen hervorrief.
 
-::: tip
+::: tip TIPP
 Zusammenfassend lässt sich also sagen, dass das Pferd zur damaligen Zeit wesentlich weniger als fühlendes Lebewesen, sondern vielmehr als wertvolles Werkzeug und Mittel zum Zweck angesehen wurde. Ein respektvoller Umgang mit dem Tier - wenn auch nicht aus reiner Tierliebe - war dennoch alltäglich und kann im RP leicht ausgespielt werden, indem man bspw. sein Pferd zwischendurch auch mal tränkt und nach dem Ritt absattelt und bürstet, bevor man es wegschickt. Ein allzu „wendy-hafter“, moderner und kuscheliger Umgang mit Pferden ist jedoch nicht zeitgemäß.
 
 Ebenfalls nicht zeitgemäß, bei uns jedoch aus Balancing-Gründen möglich ist das Unfruchtbar-Machen der Pferde durch einen Tierarzt. Deshalb sollte man dies auch ernsthaft und gewissenhaft ausspielen, da diese Operation 1875 sehr oft mit dem Tod des Tieres endete (was im RP natürlich nicht passieren wird).
@@ -205,7 +205,7 @@ Die elektrische Telegrafie war ein Punkt-zu-Punkt -Textnachrichtensystem, welche
 Wir alle nutzen Telegramme für unser RP. Betriebe, staatliche Einrichtungen, Familien, die ihren entfernten Verwandten Nachrichten zukommen lassen wollen. Aber muss ich dafür lesen und schreiben können, was 1875 ja nicht Gang und Gäbe war? Nein, denn man konnte dem Telegrafisten die Nachricht auch einfach diktieren oder empfangene Nachrichten entsprechend vorlesen lassen.
 Daher ist die Aussage “Ich schreibe mal eben ein Telegramm” faktisch falsch, denn der Charakter schreibt, wenn überhaupt, eine Vorschrift, welche der Telegrafist dann korrigiert und anschließend kodiert. Und auch wenn dein Charakter nicht gut schreiben kann - der Telegrafist  war dafür ausgebildet, sodass Rechtschreibfehler quasi nicht vorkamen. 
 
-::: tip
+::: tip TIPP
 Korrekterweise sollten Telegramme daher kurz und prägnant sein, für längere Schreiben gibt es den Post Service.
 Außerdem gab es keine absichtlichen Rechtschreibfehler in Telegrammen und schon gar keine „^^“ oder „:)“ oder ein „Hallooooo“ mit 5 O’s - der Telegrafist hätte diese automatisch ausgebessert bzw. auch gar nicht mit übermittelt bzw. dekodiert, denn er wird schließlich dafür bezahlt, einen für jeden lesbaren Text abzuliefern.
 Da Tippfehler jedoch natürlich jedem passieren können, sollten diese einfach nicht ausgespielt werden.
@@ -269,7 +269,7 @@ Doch die kriminellen Machenschaften einer ganze Bande konnten das alltägliche L
 Auch Ladendiebstähle oder Geiselnahmen im Zug sind oft gewalttätige Überfälle, die nicht selten mit dem Tod endeten. Macht es also Sinn, dass der Besitzer des General Stores ausdruckslos seine Zigarette weiter raucht und alles bewegungslos beobachtet? Oder zieht er gar seine Revolver und schießt mit?
 Nein, tut er nicht - er wird sich in seinen Laden zurückziehen, diesen vielleicht sogar verrammeln, um sein Leben zu schützen.
 
-::: danger
+::: danger ACHTUNG
 Auch hier gilt jedoch jederzeit Fairplay: Ballert nicht herum wie die Großen (Munition war teuer), überfallt nicht wahllos Leute ohne RP-Hintergrund, und vor allem schießt sie nicht grundlos nieder und legt sie dann sonstwo ab, wo man die Bewusstlosen nicht finden kann.   
 Bedenkt stets, dass ein Überfall ein RP-Event sein sollte, aus dem alle Parteien zufrieden herausgehen - er ist keinesfalls dafür da, andere um alles zu erleichtern und auf Zwang jedes Item mitzunehmen, nur weil es die Regeln erlauben. Man kann Überfälle auch ohne einen Diebstahl machen!
 :::
@@ -286,7 +286,7 @@ Zwei Revolver und ein Gewehr auf dem Rücken ist in der Wildnis wohl verständli
 Aber zwei Gewehre auf dem Rücken?
 Nicht nur, dass ein schnelles Ziehen des Gewehres so gar nicht möglich wäre; auch das Bewegen des Oberkörpers sollte ein Ding der Unmöglichkeit sein - spätestens beim Bücken strafft sich ein Gewehrriemen, der andere rutscht von der Schulter, die Riemen verheddern sich und im besten Fall erdrosselt man sich dann noch selbst damit. 
 
-::: tip
+::: tip TIPP
 Beachte einfach, wer dein Charakter eigentlich ist - wo will er gerade hin? Macht es Sinn, ein Gewehr mitzunehmen, wenn du als ziviler Spieler in Valentine nur mal die Straße herunter schlenderst, um dich vor dem Stall mit einem Bekannten zu unterhalten?
 Macht eine doppelläufige Schrotflinte auf der Hirschjagd Sinn, obwohl das Fleisch durch den Schrot ungenießbar werden würde?
 Brauche ich als Arzt, während ich in meiner Praxis sitze, beide Revolver griffbereit an meiner Hüfte, durch die ich mich wahrscheinlich gar nicht zu meinen Patienten herunterbeugen könnte?
@@ -312,7 +312,7 @@ Als Zusatz gibt es natürlich auch bei einigen Stammessprachen sehr gute Wörter
 
 Viele medizinische Eingriffe erforderten viel Geschick und Zeit, und selbst dann starben die Patienten oft, wenn beispielsweise die Verletzungen zu schwerwiegend waren, der Blutverlust zu hoch - oder ganz simpel, sie starben einfach an einer Blutvergiftung. Ein RP-Arzt sollte sich, wie jeder andere Gewerbetreibende auch, den medizinischen und therapeutischen Einschränkungen dieser Zeit bewusst sein (auch wenn es selbstverständlich nicht gewünscht ist, jeden zweiten Spieler wegen oben genannter Gründe für tot zu erklären) und seine Therapien und Medikamente so bespielen, dass diese die Möglichkeiten des Jahres 1875 nicht übersteigen.
 
-::: tip
+::: tip TIPP
 Beispielsweise wird im RP immer wieder angedeutet, dass Rauchen und Alkohol  ungesund seien oder Opium massiv süchtig machen würden. Hier handelt es sich jedoch um modernes Wissen - in 1875 waren genannte Dinge gängige und oft empfohlene “Medikamente” gegen jegliche Leiden.
 :::
 
@@ -339,7 +339,7 @@ Auch das Klavier wurde gern gespielt, war jedoch, da schlecht transportierbar, a
 
 (Alle Weihnachtslieder aus dem Weihnachtsvideo 2024)
 
-::: danger
+::: danger ACHTUNG
 Aktuelle Pop-Songs mit Bezug zu modernen Themen sind dagegen niemals okay,  ein Beispiel aus der Vergangenheit war z.B. “Barbie Girl” von Aqua. Niemals okay! Im Zweifelsfall kann immer gerne nochmal vorab per Ticket nachgefragt werden.
 :::
 
