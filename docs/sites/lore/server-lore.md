@@ -77,18 +77,31 @@ Unseren fiktiven State „Dakoma“ siedeln wir als offiziell anerkannten 38. St
 Die heute bekannten, restlichen States waren damals noch sogenannte „Territories“ und keine States. Da diese erst nach 1875 anerkannt wurden, ist es für uns aus RP-Sicht nicht weiter relevant, soll hier der Vollständigkeit halber dennoch aufgelistet werden:
 
 Colorado Territory → ab 1876: 38. Colorado
+
 Dakota Territory (Teil) → ab 1889: 39. North Dakota
+
 Dakota Territory (Teil) → ab 1889: 40. South Dakota
+
 Montana Territory → ab 1889: 41. Montana
+
 Washington Territory → ab 1889: 42. Washington
+
 Idaho Territory → ab 1890: 43. Idaho
+
 Wyoming Territory → ab 1890: 44. Wyoming
+
 Utah Territory → ab 1896: 45. Utah
+
 Indian Territory + Oklahoma Territory → ab 1907: 46. Oklahoma
+
 New Mexico Territory → ab 1912: 47. New Mexico
+
 Arizona Territory → ab 1912: 48. Arizona
+
 Alaska Territory → ab 1959: 49. Alaska
+
 Hawaii Territory → ab 1959: 50. Hawaii
+
 
 Im Zuge eurer Charstory ist daher darauf zu achten, dass euer Char z.B. nicht aus „Arizona“ kommt, sondern aus „Arizona Territory“ und die Grenzen der Staaten damals auch anders verliefen als heute.  
 :::
@@ -100,7 +113,7 @@ Was wir jedoch nach unserem Regelwerk nicht bespielen, sind schwere Beleidigunge
 Jeder Spielerin und jedem Spieler sollen prinzipiell alle beruflichen Möglichkeiten und authentische Verhaltensweisen offenstehen.
 :::
 
-## Weltkarte 1875
+## WELTKARTE 1875
 
 Eine aktuelle Weltkarte von 1875, welche IC verwendet werden darf (sofern der Charakter davon Kenntniss haben kann).
 
