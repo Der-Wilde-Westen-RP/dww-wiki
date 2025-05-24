@@ -50,9 +50,10 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Server Lore',
+        text: 'Server Lore & Guides',
         items: [
           { text: 'State of Dakoma', link: '/sites/lore/server-lore' },
+          { text: 'RP-Guide', link: '/sites/lore/rp-guide' },
         ]
       },
       {
