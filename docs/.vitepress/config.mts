@@ -52,7 +52,7 @@ export default defineConfig({
       {
         text: 'Server Lore',
         items: [
-          { text: 'State of Dakoma', link: '/sites/lore/server-lore }' },
+          { text: 'State of Dakoma', link: '/sites/lore/server-lore' },
         ]
       },
       {
