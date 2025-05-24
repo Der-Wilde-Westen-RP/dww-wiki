@@ -50,6 +50,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Server Lore',
+        items: [
+          { text: 'State of Dakoma', link: '/sites/lore/server-lore }' },
+        ]
+      },
+      {
         text: 'Tastatur & Konsolenbefehle',
         items: [
           { text: 'Tastenbelegung', link: '/sites/keyboard-console/tastaturbelegung' },
