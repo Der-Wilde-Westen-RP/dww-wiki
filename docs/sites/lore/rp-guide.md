@@ -32,10 +32,9 @@ Die Zeit zwischen 1875 und 1900 war geprägt von einer industriellen und technol
 Diese damals fortschrittlichen Erfindungen waren aber auch das, was den Wilden Westen dann letztendlich auch zähmte, deshalb möchten wir diese technischen Neuerungen auch nicht bespielen. Da es für das Basisspiel nach aktuellem Stand auch keine offiziellen Erweiterungen mehr geben wird, sind wir auch entwicklungstechnisch an das gebunden, was wir aktuell haben.
 
 ::: tip Im RP halten wir dies wie folgt...
-Wann immer möglich, wird auf das Festhalten der Jahreszahl (z.B. in Schriftstücken) verzichtet, da dies natürlich nach einem realen Jahreswechsel für Verwirrung sorgt, wenn Briefe plötzlich in der Zukunft geschrieben wurden. Stattdessen schreibt man beispielsweise einfach “Am 23. Mai diesen Jahres”.
+Wann immer möglich, wird auf das Festhalten der Jahreszahl (z.B. in Schriftstücken) verzichtet, da dies natürlich nach einem realen Jahreswechsel für Verwirrung sorgt, wenn Briefe plötzlich in der Zukunft geschrieben wurden. Stattdessen schreibt man beispielsweise einfach „Am 23. Mai diesen Jahres”.
+In Gesprächen geht das weniger holprig, man kann sich mit Aussagen wie “mein Geburtstag letztes Jahr”, “meine Einreise vor 2 Jahren”, “nächstes Jahr werde ich die Ranch übernehmen” festlegen und jeder weiß, was gemeint ist.
 :::
-
-In Gesprächen geht das weniger holprig, man kann sich mit Aussagen wie “mein Geburtstag letztes Jahr”, “meine Einreise vor 2 Jahren”, “nächstes Jahr werde ich die Ranch übernehmen” festlegen und jeder weiß, was gemeint ist. 
 
 *Auch wenn wir immer wieder das Jahr 1875 bespielen, vergeht die Zeit per se natürlich trotzdem - neue Charaktere reisen ein, Geburtstage werden IC gefeiert, Charaktere reisen wieder aus, verschwinden oder versterben.*
 
@@ -51,7 +50,9 @@ Wir haben auf unserer RDR-Map viele verschiedene Biome:
 Aber nicht nur das, auch das Wetter spielt eine Rolle: Regen kann schön anzuschauen sein, ist aber sicherlich nichts, wo man einfach drin stehen bleibt, und schon gar nicht riskierte man damit leicht vermeidbare Erkrankungen.
 Kleine Erkältungen konnten schnell zu einer potenziell tödlichen Lungenentzündung werden, und weder eine Arztbehandlung, noch ein Tee wird deinen Charakter von der einen auf die andere Sekunde wieder herumspringen lassen wie einen jungen Adonis. 
 
-*Du bist im Wilden Westen fernab von Zivilisation (auch wenn die nächste Stadt eigentlich nur 2 Minuten Ritt entfernt ist), dein Charakter hat sicherlich keinerlei Interesse daran, krank zu werden oder gar den Tod von sich oder seinem Vieh in Kauf zu nehmen. Verhalte dich dementsprechend, ziehe dich passend an und suche dir auch einfach mal einen Unterstand und warte das Unwetter ab.  Du hast die Zeit, das Western-Setting und die Immersion lebt davon!*
+::: tip TIPP
+Du bist im Wilden Westen fernab von Zivilisation (auch wenn die nächste Stadt eigentlich nur 2 Minuten Ritt entfernt ist), dein Charakter hat sicherlich keinerlei Interesse daran, krank zu werden oder gar den Tod von sich oder seinem Vieh in Kauf zu nehmen. Verhalte dich dementsprechend, ziehe dich passend an und suche dir auch einfach mal einen Unterstand und warte das Unwetter ab.  Du hast die Zeit, das Western-Setting und die Immersion lebt davon!
+:::
 
 Auch sollte man sich immer die Frage stellen - ist es sinnvoll, nachts alleine loszuziehen, um einen Grizzly in Tall Trees zu jagen?
 
@@ -163,7 +164,9 @@ Weiterhin sei auf eine authentische Einfärbung der Kleidung zu achten.
 Im Jahr 1875 basierte die Lederfärbung hauptsächlich auf natürlichen Farbstoffen wie pflanzlichen (z.B. Eichenrinde, Walnussschalen, Indigo, Henna) und mineralischen Materialien (z.B. Ocker, Eisenoxid). Zwar war eine gut deckende Einfärbung von Leder mit Hilfe von chemischen Farbstoffen, wie wir sie heute kennen, schon möglich, aber noch relativ neu und daher auch teuer. Kaum ein Cowboy wird sein hart verdientes Geld dafür ausgegeben haben, um sich extra ein rosa Holster anfertigen zu lassen.
 Wenn euer Charakter also Leder trägt, dann lasst es bitte auch nach Leder aussehen! Auch Metallschnallen u.ä. können mit Methoden von 1875 nicht deckend in knalligen Farben gefärbt werden. Auch Sattel und Zaumzeug bestanden aus Leder und waren nicht in knallgrün erhältlich. Wenn ihr unbedingt Farbe ins Spiel bringen wollt, so könnt ihr dies z.B. gerne bei Hemden, Shirts, Halstüchern oder sonstigen Schärpen und Bändern aus Stoff oder auch bei Satteldecken aus Wolle tun.
 
-*Hübsche Kleidung blieb übrigens selten lange hübsch, wenn sie ständig beim Arbeiten getragen wurde, weshalb zumindest das Tragen bspw. einer Schürze, einer Latzhose oder gleich einem ganzen Set an Arbeitskleidung, passend zum Beruf gewählt - sehr authentisch wirken und zur Immersion einen großen Teil beitragen.*
+::: tip TIPP
+Hübsche Kleidung blieb übrigens selten lange hübsch, wenn sie ständig beim Arbeiten getragen wurde, weshalb zumindest das Tragen bspw. einer Schürze, einer Latzhose oder gleich einem ganzen Set an Arbeitskleidung, passend zum Beruf gewählt - sehr authentisch wirken und zur Immersion einen großen Teil beitragen.
+:::
 
 Zum Auftreten eines Charakters gehört natürlich auch das eigentliche Aussehen:
 - Ein Bart oder Haare wachsen nicht über Nacht von kurz zu lang.
@@ -254,7 +257,9 @@ Mit diesem Vorhaben geht er nun zum Pferdetrainer seines Vertrauens und sagt ein
 
 Einen Sheriff in der Stadt zu haben, war in 1875 etwas, was jeder Bewohner - selbst, wenn er selbst nicht immer sauber war - unbedingt haben wollte. Sie sorgten für Recht und Ordnung, waren Respektspersonen - auch wenn sie selbst nicht immer sauber waren - und damit für jeden Patrioten das unverzichtbare Wahrzeichen der Stadt.
 
-*Der Law & Crime-Aspekt ist das Herzstück eines jeden RP-Servers, weshalb Fairplay hier jederzeit großgeschrieben werden muss! Natürlich soll man sich nicht alles gefallen lassen, aber gerade im Wilden Westen kann man durch das gemächliche Setting manches auch mal deutlich lockerer sehen.*
+:::tip TIPP
+Der Law & Crime-Aspekt ist das Herzstück eines jeden RP-Servers, weshalb Fairplay hier jederzeit großgeschrieben werden muss! Natürlich soll man sich nicht alles gefallen lassen, aber gerade im Wilden Westen kann man durch das gemächliche Setting manches auch mal deutlich lockerer sehen.
+:::
 
 *Aber 1875 hat sicherlich niemand mit einem Sheriff über Gesetze gestritten, ihn beleidigt, sich über ihn lustig gemacht oder als faul bezeichnet, denn dann hätte er sich ganz schnell mit einem blauen Auge in einer Zelle wiedergefunden - oder direkt am Strick. Ein “Der Sheriff hat seine Stellung missbraucht und powert mich!” ist hier völlig fehl am Platz - der Sheriff hat einfach nur zeitgemäß auf eine Konfrontation reagiert, was erst einmal völlig in Ordnung ist. Sheriffs waren keine Fußabtreter der Bevölkerung, sondern respektierte Gesetzeshüter, die 1875 eben härter als heute durchgegriffen haben.*
 *Natürlich kann ein Krimineller dennoch ein respektloses Großmaul ausspielen, doch muss er sich der entsprechenden Konsequenzen seiner Handlung dann auch bewusst sein. Kein hochrangiger Sheriff oder gar der Marshal lässt sich von einem zerlumpten Banditen blöd von der Seite anranzen, ohne zu handeln - und dann zu argumentieren, dass Beleidigungen oder respektloses Verhalten eben zum Hardcore-RP dazugehört, nicht aber die resultierende Konsequenz daraus zu respektieren, ist schlicht und ergreifend Fail-RP.*
