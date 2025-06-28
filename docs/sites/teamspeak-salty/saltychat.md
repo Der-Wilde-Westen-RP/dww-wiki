@@ -6,7 +6,7 @@ Wie du die Sprachreichweite einstellst findest du in den [Tastaturbelegungen](..
 
 ## Download
 
-Die aktuelle Version von SaltyChat, die wir benutzen, ist SaltyChat [v3.1.2](https://gaming.v10networks.com/saltychat/download/3.1.2). Um die Version herunterzuladen klicke einfach auf den Link oder besuche [https://gaming.v10networks.com/SaltyChat](https://gaming.v10networks.com/SaltyChat).
+Die aktuelle Version von SaltyChat, die wir benutzen, ist SaltyChat [v4.0.0](https://saltyhub.net/download). Um die Version herunterzuladen klicke einfach auf den Link oder besuche [https://saltyhub.net/download](https://saltyhub.net/download).
 
 ## Installation
 
