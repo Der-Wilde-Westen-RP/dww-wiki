@@ -1,4 +1,4 @@
-# ACCOUNT IS ALREADY BEEING USED
+# ACCOUNT IS ALREADY BEING USED
 
 _Aussehen der Fehlermeldung:_
 ![Account is already beeing used error](../../../assets/account_in_use_error.webp)
