@@ -117,6 +117,7 @@ export default defineConfig({
               { text: "Fehler: CURL error code 56", link: '/sites/technical/redm-errors/curl-error-code-56' },
               { text: "Fehler: RedM_ROSLauncher+147B6C", link: '/sites/technical/redm-errors/ros-launcher+147B6C' },
               { text: "Fehler: [...] 42E83450 (0xe)", link: '/sites/technical/redm-errors/RDR2_b1491' },
+              { text: "Fehler: Account is beeing used", link: '/sites/technical/redm-errors/account-in-use' }
             ]
           },
         ]
