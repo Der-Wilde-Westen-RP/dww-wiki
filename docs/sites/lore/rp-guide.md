@@ -279,7 +279,7 @@ Auch hier gilt jedoch jederzeit Fairplay: Ballert nicht herum wie die Großen (M
 Bedenkt stets, dass ein Überfall ein RP-Event sein sollte, aus dem alle Parteien zufrieden herausgehen - er ist keinesfalls dafür da, andere um alles zu erleichtern und auf Zwang jedes Item mitzunehmen, nur weil es die Regeln erlauben. Man kann Überfälle auch ohne einen Diebstahl machen!
 :::
 
-## **(Er)kenne deinen Feind in 1875**
+## **(ER)KENNE DEINEN FEIND IN 1875**
 
 Bevor wir uns anschauen, wie man im Wilden Westen von DWW Täter richtig erkennt und überführt, ist es wichtig, die [grundlegenden Regeln zur Maskierung](https://sites.google.com/view/dww-regelwerk#h.x9p1ciur45wm) zu kennen:
 
