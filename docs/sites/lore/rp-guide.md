@@ -332,9 +332,11 @@ Hier entsteht dann leider oftmals der Verdacht, dass die Verbrechensopfer OOC-In
 
 Daher gilt es als Verbrechensopfer, sich bei Überfällen so viel wie möglich zu merken – und als Täter, es entweder ruhig mit wenigen, kleinen Diebstählen anzugehen, zwischendurch auch mal eine Pause einzulegen oder das Schema seiner Überfälle regelmäßig zu ändern (Gruppengröße, Ort, Sprecher, mitgeführte Waffen etc.). Wenn man dagegen seinen Charakter als den größten Banditen im Wilden Westen bekannt werden lassen will und dafür permanent Überfälle begeht, muss man sich aber auch damit abfinden, dass der Charakter im weiteren Verlauf dann trotz Vermummung immer regelmäßiger aufgrund weniger, sich überschneidender Indizien sehr wahrscheinlich "erkannt" wird und früher oder später schlicht am Galgen endet.
 
-::: tip **Merke:** Da NPCs nach unserem Regelwerk als „normale Mitspieler behandelt und betrachtet werden“, dürfen sie vom Verbrechensopfer auch als Zeuge genannt und von den Fraktionsführern der Sheriffs/USMS/des Governments befragt werden.  
+::: tip 
+**Merke:** Da NPCs nach unserem Regelwerk als „normale Mitspieler behandelt und betrachtet werden“, dürfen sie vom Verbrechensopfer auch als Zeuge genannt und von den Fraktionsführern der Sheriffs/USMS/des Governments befragt werden.  
 
-Das bedeutet, dass administrativ geschaut wird, was dieser Zeuge tatsächlich gesehen hat und hier dann aufgrund der Logs entschieden wird, was gesehen wurde. Daher ist ein Überfall in einer Stadt immer eine größere Gefahr – schließlich weiß man nie, wer zusieht.:::
+Das bedeutet, dass administrativ geschaut wird, was dieser Zeuge tatsächlich gesehen hat und hier dann aufgrund der Logs entschieden wird, was gesehen wurde. Daher ist ein Überfall in einer Stadt immer eine größere Gefahr – schließlich weiß man nie, wer zusieht.
+:::
 
 Im Sinne eines gemeinsamen, positiven Spielerlebnisses sollte jedoch auf beiden Seiten die Waage gehalten werden. Oftmals verhält es sich so, dass gut gespielte Überfälle, bei denen das RP im Vordergrund steht, gar nicht erst an die Sheriffs gemeldet werden. Auch ein Sheriff kann und darf bei gutem RP mal fünf gerade sein lassen, ohne gleich als korrupt zu gelten. Daher sollten beide Seiten stets darauf achten, es nicht zu übertreiben und der jeweils gegnerischen Fraktion auch mal einen Sieg zuzugestehen.
 
