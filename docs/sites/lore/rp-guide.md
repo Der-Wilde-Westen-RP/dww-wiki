@@ -316,12 +316,12 @@ Auch wenn der Täter nicht anhand der Stimme erkannt werden darf, so kann natür
 Es ist von Fall zu Fall unterschiedlich, wie viele Indizien benötigt werden, um eine Person möglichst einwandfrei identifizieren und überführen zu können – und natürlich sollte nicht auf Zwang und mit OOC-Wissen auf gravierenden Erkennungsmerkmalen herumgeritten werden. Für Kriminelle auf der anderen Seite ist es daher auch wichtig, nicht immer nach Schema F "mal eben" 10 Leute auf die gleiche Art und Weise hopps zu nehmen und sich nur darauf zu verlassen, dass das hochgezogene Bandana und ein anderes Pferd und andere Klamotten zweifelsfrei vor Erkennung und einer Überführung durch die Sheriffs schützen.  
 
 **Ein Fallbeispiel:**  
-Über Wochen wird eine Gegend immer wieder von drei Personen überfallen:
+Über Wochen wird eine Gegend immer wieder von *drei Personen* überfallen:
 
-- Ein kleiner, schlanker Mann in schwarzer Kleidung  
-- Begleitet von einer großen Frau, ebenfalls in Schwarz, mit einer Machete und russischem Akzent  
+- Ein *kleiner, schlanker Mann* in schwarzer Kleidung  
+- Begleitet von einer *großen Frau*, ebenfalls in Schwarz, mit einer *Machete* und *russischem Akzent*  
 - Die dritte Person, eine normal große Frau in Schwarz, sagt nie etwas und hält sich immer unauffällig im Hintergrund
-- Die Überfälle dieses Trios finden regelmäßig um die Flatneck Station statt.
+- Die Überfälle dieses Trios finden regelmäßig um die *Flatneck Station* statt.
   
 Eines Tages wird der kleine, schlanke Mann bei einem Überfall geschnappt – die beiden Frauen können zwar fliehen, der Mann aber wird öffentlich demaskiert und identifiziert. Er leistet seine Haftstrafe ab und zieht dann wieder seiner Wege.  
 
