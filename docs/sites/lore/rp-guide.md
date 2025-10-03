@@ -280,46 +280,59 @@ Bedenkt stets, dass ein Überfall ein RP-Event sein sollte, aus dem alle Parteie
 :::
 
 ## (ER)KENNE DEINEN FEIND IN 1875
-Bevor wir uns anschauen, wie man im Wilden Westen von DWW Täter richtig erkennt und überführt, ist es wichtig, die grundlegenden Regeln zur Maskierung zu kennen:
+Bevor wir uns anschauen, wie man im Wilden Westen von DWW Täter richtig erkennt und überführt, ist es wichtig, die [grundlegenden Regeln zur Maskierung](https://sites.google.com/view/dww-regelwerk#h.x9p1ciur45wm) zu kennen:
 2. Veränderungen des Erscheinungsbildes (z. B. Bandana, Kleidung, Stimme) verschleiern grundsätzlich die Identität.
+
 Eine Identifizierung ist zweifelsfrei möglich, wenn:
-- das Erscheinungsbild nur durch ein Bandana verändert wurde (Bandana hoch oder runter, restliches Aussehen und Ausrüstung bleiben gleich und die Person wird nach kurzer Zeit wieder so gesehen),
-- oder wenn man selbst beobachtet hat, wie jemand sein Erscheinungsbild verändert hat.
-- Nach einer Aggressor-Handlung (z. B. Überfall, Raub, Angriff) dürfen 30 Minuten lang keinerlei Änderungen am Erscheinungsbild vorgenommen werden. 
+-   das Erscheinungsbild nur durch ein Bandana verändert wurde (Bandana hoch oder runter, restliches Aussehen und Ausrüstung bleiben gleich und die Person wird nach kurzer Zeit wieder so gesehen),  
+-   oder wenn man selbst beobachtet hat, wie jemand sein Erscheinungsbild verändert hat.  
 
-3. Generelle Änderungen am Erscheinungsbild dürfen vorgenommen werden, wenn der Charakter weder aktiv gesucht wird (Steckbrief) noch binnen 72 Stunden an einer kriminellen Handlung beteiligt war. Kleidung darf bereits 30 Minuten nach einer aggressiven Handlung geändert werden.
+Nach einer Aggressor-Handlung (z. B. Überfall, Raub, Angriff) dürfen 30 Minuten lang keinerlei Änderungen am Erscheinungsbild vorgenommen werden.  
+ 
+3. Generelle Änderungen am Erscheinungsbild dürfen vorgenommen werden, wenn der Charakter weder aktiv gesucht wird (Steckbrief) noch binnen 72 Stunden an einer kriminellen Handlung beteiligt war. Kleidung darf bereits 30 Minuten nach einer aggressiven Handlung geändert werden.  
+  
+-> Wichtig: Auch das Lösen der Haare aus dem Zopf in eine offene Mähne ist eine Änderung des Erscheinungsbilds!
 
-**-> Wichtig: Auch das Lösen der Haare aus dem Zopf in eine offene Mähne ist eine Änderung des Erscheinungsbilds!**
+### Der Schlüssel zur Überführung
 
-**Der Schlüssel zur Überführung**
 Im Wilden Westen rennt niemand mit einem Ausweis herum, und selbstredend wird es dank Bandana, Kleidungswechsel und verstellter Stimme - vor allem bei einem ersten Aufeinandertreffen - schwer, den Täter direkt zu überführen. Doch selbst wenn man niemanden „zweifelsfrei“ identifizieren kann, heißt das nicht, dass man völlig im Dunkeln tappt.
+
 Auch wenn der Täter nicht anhand der Stimme erkannt werden darf, so kann natürlich der Klang selbst (z.B. tiefe oder hohe Stimme) bereits ein Indiz sein und einem eventuell sogar vielleicht wage bekannt vorkommen, weil man die Person vielleicht vorher auch schon mal ohne Bandana gesehen und mit ihr ein Schwätzchen gehalten hat. Ein einzelnes Indiz reicht aber nicht aus, um jemanden zu erkennen bzw. zu überführen. Aber eine Kombination mehrerer Merkmale kann ein sehr klares Bild zeichnen; daher sollte jede/r Spieler/in, der/die einen Überfall erlebt, lernen, sie zu nutzen.
+
 Beispiele für glaubwürdige und verwendbare Indizien:
-Anzahl der Beteiligten: Wie viele Personen waren am Überfall beteiligt?
-Geschlecht und Statur: Männer oder Frauen? Klein, groß, dick, dünn, muskulös?
-Stimme & Sprachmuster: hohe/tiefe Stimme in Verbindung mit gebrochener Sprache, mit/ohne Akzent, wiederholende Phrasen, dumme/intelligente Ausdrucksweise, Stottern, etc.?
-Haare: Haarfarbe, Länge, Schnitt, Bart oder Glatze?
-Kleidung & Accessoires: Farben, Muster, fehlende Kleidungsstücke (z. B. kein Hut), auffälliger Schmuck, Munitionsgürtel, Halsketten, Schärpen oder verzierte Holster (z. B. Totenköpfe)
-Bewaffnung: Welche Waffen trugen sie? Pistolen, Gewehre, Nahkampfwaffen? Gab es auffällige Verzierungen oder eine bestimmte Anzahl?
-Pferde: Welche Farben hatten die Pferde? Gab es besondere Sättel oder auffälliges Zubehör?
-Ablauf & Ort: Wo fand das Ganze statt? Wie lief der Überfall ab? Welche Strategie wurde verwendet? 
-Es ist von Fall zu Fall unterschiedlich, wie viele Indizien benötigt werden, um eine Person möglichst einwandfrei identifizieren und überführen zu können - und natürlich sollte nicht auf Zwang und mit OOC-Wissen auf gravierenden Erkennungsmerkmalen herumgeritten werden. Für Kriminelle auf der anderen Seite ist es daher auch wichtig, nicht immer nach Schema F “mal eben” 10 Leute auf die gleiche Art und Weise hopps zu nehmen und sich nur darauf zu verlassen, dass das hochgezogene Bandana und ein anderes Pferd und andere Klamotten zweifelsfrei vor Erkennung und einer Überführung durch die Sheriffs schützen.
 
-**Ein Fallbeispiel: **
+-   Anzahl der Beteiligten: Wie viele Personen waren am Überfall beteiligt?    
+-   Geschlecht und Statur: Männer oder Frauen? Klein, groß, dick, dünn, muskulös?    
+-   Stimme & Sprachmuster: hohe/tiefe Stimme in Verbindung mit gebrochener Sprache, mit/ohne Akzent, wiederholende Phrasen, dumme/intelligente Ausdrucksweise, Stottern, etc.?    
+-   Haare: Haarfarbe, Länge, Schnitt, Bart oder Glatze?    
+-   Kleidung & Accessoires: Farben, Muster, fehlende Kleidungsstücke (z. B. kein Hut), auffälliger Schmuck, Munitionsgürtel, Halsketten, Schärpen oder verzierte Holster (z. B. Totenköpfe)    
+-   Bewaffnung: Welche Waffen trugen sie? Pistolen, Gewehre, Nahkampfwaffen? Gab es auffällige Verzierungen oder eine bestimmte Anzahl?    
+-   Pferde: Welche Farben hatten die Pferde? Gab es besondere Sättel oder auffälliges Zubehör?
+-   Ablauf & Ort: Wo fand das Ganze statt? Wie lief der Überfall ab? Welche Strategie wurde verwendet? 
+    
+
+Es ist von Fall zu Fall unterschiedlich, wie viele Indizien benötigt werden, um eine Person möglichst einwandfrei identifizieren und überführen zu können - und natürlich sollte nicht auf Zwang und mit OOC-Wissen auf gravierenden Erkennungsmerkmalen herumgeritten werden. Für Kriminelle auf der anderen Seite ist es daher auch wichtig, nicht immer nach Schema F “mal eben” 10 Leute auf die gleiche Art und Weise hopps zu nehmen und sich nur darauf zu verlassen, dass das hochgezogene Bandana und ein anderes Pferd und andere Klamotten zweifelsfrei vor Erkennung und einer Überführung durch die Sheriffs schützen.  
+  
+Ein Fallbeispiel:  
 Über Wochen wird eine Gegend immer wieder von drei Personen überfallen:
-- Eine kleiner, schlanker Mann in schwarzer Kleidung,
-- begleitet von einer großen Frau, ebenfalls in Schwarz, mit einer Machete und russischem Akzent.
-- die dritte Person, eine normal große Frau in schwarz, sagt nie etwas und hält sich immer unauffällig im Hintergrund
-- Die Überfälle dieses Trios finden regelmäßig um die Flatneck Station statt.
 
-Eines Tages wird der kleine, schlanke Mann bei einem Überfall geschnappt - die beiden Frauen können zwar fliehen, der Mann aber wird öffentlich demaskiert und identifiziert. Er leistet seine Haftstrafe ab und zieht dann wieder seiner Wege. 
-Ab diesem Zeitpunkt ist jedoch öffentlich bekannt, dass ein kriminelles Trio sein Unwesen treibt - wenn später also erneut ein Überfall mit 3 Personen mit dieser Indizien-Kombination aus Körpergröße & Geschlechterverhältnis, Machete, Akzent, Ort stattfindet, reicht dies bei einem zweiten Vergehen dann auch aus, um eine entsprechende Verbindung zum ersten Fall herzustellen und zumindest den namentlich bekannten Täter entsprechend zu überführen – selbst wenn diesmal andere Pferde genutzt wurden und das Trio komplett vermummt mit Bandana bis obenhin unterwegs ist. 
+-   Eine kleiner, schlanker Mann in schwarzer Kleidung, 
+-   begleitet von einer großen Frau, ebenfalls in Schwarz, mit einer Machete und russischem Akzent. 
+-   die dritte Person, eine normal große Frau in schwarz, sagt nie etwas und hält sich immer unauffällig im Hintergrund   
+-   Die Überfälle dieses Trios finden regelmäßig um die Flatneck Station statt.      
 
-Hier entsteht dann leider oftmals der Verdacht, dass die Verbrechensopfer OOC-Informationen nutzen und “Leute nur an der Stimme erkennen”, dabei ist die Erklärung eine ganz andere: Die Strafverfolgung darf entsprechend natürlich davon ausgehen, dass bekannte und bereits überführte Täter wieder rückfällig werden und es sich bei späteren Überfällen mit diesen wenigen Indizien dennoch sehr wahrscheinlich um die 3 gleichen, bereits bekannten Verbrecher handelt. Es ist schließlich eine viel unrealistischere Annahme, dass ein permanenter Zustrom an kleinen kriminellen Männern mit 2 Frauen, die dem obigen Profil entsprechen, im State stattfindet. 
+Eines Tages wird der kleine, schlanke Mann bei einem Überfall geschnappt - die beiden Frauen können zwar fliehen, der Mann aber wird öffentlich demaskiert und identifiziert. Er leistet seine Haftstrafe ab und zieht dann wieder seiner Wege.  
+Ab diesem Zeitpunkt ist jedoch öffentlich bekannt, dass ein kriminelles Trio sein Unwesen treibt - wenn später also erneut ein Überfall mit 3 Personen mit dieser Indizien-Kombination aus Körpergröße & Geschlechterverhältnis, Machete, Akzent, Ort stattfindet, reicht dies bei einem zweiten Vergehen dann auch aus, um eine entsprechende Verbindung zum ersten Fall herzustellen und zumindest den namentlich bekannten Täter entsprechend zu überführen – selbst wenn diesmal andere Pferde genutzt wurden und das Trio komplett vermummt mit Bandana bis obenhin unterwegs ist. 
+
+Hier entsteht dann leider oftmals der Verdacht, dass die Verbrechensopfer OOC-Informationen nutzen und “Leute nur an der Stimme erkennen”, dabei ist die Erklärung eine ganz andere: Die Strafverfolgung darf entsprechend natürlich davon ausgehen, dass bekannte und bereits überführte Täter wieder rückfällig werden und es sich bei späteren Überfällen mit diesen wenigen Indizien dennoch sehr wahrscheinlich um die 3 gleichen, bereits bekannten Verbrecher handelt. Es ist schließlich eine viel unrealistischere Annahme, dass ein permanenter Zustrom an kleinen kriminellen Männern mit 2 Frauen, die dem obigen Profil entsprechen, im State stattfindet. 
+
 Je öfter also bei Überfällen die gleichen Indizien und Merkmale genannt werden, desto stärker wiegt im weiteren Verlauf der Strafverfolgung jedes einzelne Indiz!
-Daher gilt es als Verbrechensopfer, sich bei Überfällen so viel wie möglich zu merken - und als Täter, es entweder ruhig mit wenigen, kleinen Diebstählen anzugehen, zwischendurch auch mal eine Pause einzulegen oder das Schema seiner Überfälle regelmäßig zu ändern (Gruppengröße, Ort, Sprecher, mitgeführte Waffen, etc.). Wenn man dagegen seinen Char als den größten Banditen im Wilden Westen bekannt werden lassen will und dafür permanent Überfälle begeht, muss man sich aber auch damit abfinden, dass der Char im weiteren Verlauf dann trotz Vermummung immer regelmäßiger aufgrund weniger, sich überschneidender Indizien sehr wahrscheinlich “erkannt” wird und früher oder später schlicht am Galgen endet. 
-Merke: Da NPC's nach unserem Regelwerk als "normale Mitspieler behandelt und betrachtet werden", dürfen sie vom Verbrechensopfer auch als Zeuge genannt und von den Fraktionsführern der Sheriffs/USMS/des Governments befragt werden. 
+
+Daher gilt es als Verbrechensopfer, sich bei Überfällen so viel wie möglich zu merken - und als Täter, es entweder ruhig mit wenigen, kleinen Diebstählen anzugehen, zwischendurch auch mal eine Pause einzulegen oder das Schema seiner Überfälle regelmäßig zu ändern (Gruppengröße, Ort, Sprecher, mitgeführte Waffen, etc.). Wenn man dagegen seinen Char als den größten Banditen im Wilden Westen bekannt werden lassen will und dafür permanent Überfälle begeht, muss man sich aber auch damit abfinden, dass der Char im weiteren Verlauf dann trotz Vermummung immer regelmäßiger aufgrund weniger, sich überschneidender Indizien sehr wahrscheinlich “erkannt” wird und früher oder später schlicht am Galgen endet. 
+
+Merke: Da NPC's nach unserem Regelwerk als "normale Mitspieler behandelt und betrachtet werden", dürfen sie vom Verbrechensopfer auch als Zeuge genannt und von den Fraktionsführern der Sheriffs/USMS/des Governments befragt werden.  
 Das bedeutet, dass administrativ geschaut wird, was dieser Zeuge tatsächlich gesehen hat und hier dann aufgrund der Logs entschieden wird, was gesehen wurde. Daher ist ein Überfall in einer Stadt immer eine größere Gefahr - schließlich weiß man nie, wer zusieht.
+
 Im Sinne eines gemeinsamen, positiven Spielerlebnisses sollte jedoch auf beiden Seiten die Waage gehalten werden. Oftmals verhält es sich so, dass gut gespielte Überfälle, bei denen das RP im Vordergrund steht, gar nicht erst an die Sheriffs gemeldet werden. Auch ein Sheriff kann und darf bei gutem RP mal 5 gerade sein lassen, ohne gleich als korrupt zu gelten. Daher sollten beide Seiten stets darauf achten, es nicht zu übertreiben und der jeweils gegnerischen Fraktion auch mal einen Sieg zuzugestehen.
 
 ## GEWEHRE UND LANGWAFFEN
