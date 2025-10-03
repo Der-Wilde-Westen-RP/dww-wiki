@@ -320,9 +320,10 @@ Es ist von Fall zu Fall unterschiedlich, wie viele Indizien benötigt werden, um
 
 - Ein kleiner, schlanker Mann in schwarzer Kleidung  
 - Begleitet von einer großen Frau, ebenfalls in Schwarz, mit einer Machete und russischem Akzent  
-- Die dritte Person, eine normal große Frau in Schwarz, sagt nie etwas und hält sich immer unauffällig im Hintergrund  
-
-Die Überfälle dieses Trios finden regelmäßig um die Flatneck Station statt. Eines Tages wird der kleine, schlanke Mann bei einem Überfall geschnappt – die beiden Frauen können zwar fliehen, der Mann aber wird öffentlich demaskiert und identifiziert. Er leistet seine Haftstrafe ab und zieht dann wieder seiner Wege.  
+- Die dritte Person, eine normal große Frau in Schwarz, sagt nie etwas und hält sich immer unauffällig im Hintergrund
+- Die Überfälle dieses Trios finden regelmäßig um die Flatneck Station statt.
+  
+Eines Tages wird der kleine, schlanke Mann bei einem Überfall geschnappt – die beiden Frauen können zwar fliehen, der Mann aber wird öffentlich demaskiert und identifiziert. Er leistet seine Haftstrafe ab und zieht dann wieder seiner Wege.  
 
 Ab diesem Zeitpunkt ist jedoch öffentlich bekannt, dass ein kriminelles Trio sein Unwesen treibt – wenn später also erneut ein Überfall mit drei Personen mit dieser Indizien-Kombination aus **Körpergröße & Geschlechterverhältnis, Machete, Akzent, Ort** stattfindet, reicht dies bei einem zweiten Vergehen aus, um eine entsprechende Verbindung zum ersten Fall herzustellen und zumindest den namentlich bekannten Täter entsprechend zu überführen – selbst wenn diesmal andere Pferde genutzt wurden und das Trio komplett vermummt mit Bandana bis obenhin unterwegs ist.
 
