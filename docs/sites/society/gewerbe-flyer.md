@@ -8,5 +8,3 @@ Flugblätter für die Anschlagsbretter und Flyer zum Verteilen können IC bei de
 
 Bei eigenen Entwürfen ist auf ein zeitgemäßes Design zu achten (schwarz/braun, weiß, 1-2 Akzentfarben erlaubt).
 Wenn dieser dann von den Skriptern eingepflegt wurde, geht es IC für dich weiter. Den genauen Ablauf können dir die `Zeitungsangestellten` IC mitteilen.
-
-Hier findest du das [Zeitungsarchiv](https://der-wilde-westen-rp.de/zeitungsarchiv/) um Inspiration zu erhalten für zeithistorische Gestaltung.
