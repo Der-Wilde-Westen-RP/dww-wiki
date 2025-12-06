@@ -14,47 +14,36 @@ Mache ein `Rechtsklick` auf das `Windows-Logo` auf deiner Taskleiste und gehe au
 
 ### Schritt 2
 
-Klicke auf `Erweiterte Netzwerkeinstellungen`.
+Klicke auf `Ethernet` und klappe das Menü aus.
 
 ![SaltyChat DNS #2](../../assets/saltychat-dns-two.png)
 
 ### Schritt 3
 
-Klicke auf `Weitere Netzwerkadapteroptionen`.
+Klicke bei DNS-Serverzuweisung auf `Bearbeiten`.
 
 ![SaltyChat DNS #3](../../assets/saltychat-dns-three.png)
 
 ### Schritt 4
 
-In diesem Fenster sollte unter anderem das Gerät `Ethernet` (wenn du per Ethernetkabel/LAN verbunden bist, sonst das Gerät WLAN) aufgelistet sein, mache einen `Rechtsklick` auf das Gerät, anschließend gehe auf `Eigenschaften`.
+Stelle die Zuweisung auf `Manuell` um und trage die DNS Daten wie im Bild zu sehen ein.
 
-![SaltyChat DNS #4](../../assets/saltychat-dns-four.png)
-
-### Schritt 5
-
-Mache ein Doppelklick auf `Internetprotokoll, Version 4 (TCP/IPv4)`. In der unteren Auswahl, wähle `Folgende DNS-Serveradressen verwenden` und trage die in der Tabelle stehenden Werte wie in dem Bild zu sehen ein.
+![SaltyChat DNS #3](../../assets/saltychat-dns-four.png)
 
 | Eintrag                 |    Wert |
 | :---------------------- | ------: |
 | Bevorzugter DNS-Server  | 8.8.8.8 |
 | Alternativer DNS-Server | 8.8.4.4 |
 
-![SaltyChat DNS #5](../../assets/saltychat-dns-five.png)
+![SaltyChat DNS #4](../../assets/saltychat-dns-five.png)
 
-Bestätige deine Auswahl mit `OK`.
-
-### Schritt 6
-
-Mache ein Doppelklick auf `Internetprotokoll, Version 6 (TCP/IPv6)`. In der unteren Auswahl, wähle `Folgende DNS-Serveradressen verwenden` und trage die in der Tabelle stehenden Werte wie in dem Bild zu sehen ein.
 
 | Eintrag                 |                 Wert |
 | :---------------------- | -------------------: |
 | Bevorzugter DNS-Server  | 2001:4860:4860::8888 |
 | Alternativer DNS-Server | 2001:4860:4860::8844 |
 
-![SaltyChat DNS #6](../../assets/saltychat-dns-six.png)
-
-Bestätige deine Auswahl mit `OK`.
+Bestätige deine Auswahl mit `Speichern`.
 
 ----
 
