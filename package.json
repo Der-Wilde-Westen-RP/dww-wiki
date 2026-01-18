@@ -4,11 +4,9 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "dependencies": {
-    "vitepress": "^1.0.0-rc.26",
-    "vue": "^3.2.47"
-  },
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.26"
+    "medium-zoom": "^1.1.0",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.26"
   }
 }

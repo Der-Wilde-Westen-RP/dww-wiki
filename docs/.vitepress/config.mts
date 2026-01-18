@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Der Wilde Westen RP",
   description: "Offizielles Wiki des Red Dead Redemption 2 Servers \"Der Wilde Westen Roleplay\".",
 
-  lastUpdated: false,
+  lastUpdated: true,
   cleanUrls: true,
 
   locales: {
@@ -18,11 +18,61 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['meta', { name: 'theme-color', content: '#871616' }],
+    ['meta', { name: 'og:type', content: 'website' }],
+    ['meta', { name: 'og:locale', content: 'de' }],
+    ['meta', { name: 'og:site_name', content: 'Der Wilde Westen RP Wiki' }],
+    ['meta', { name: 'og:image', content: 'https://der-wilde-westen-rp.de/cms/wp-content/uploads/2022/06/DwD-Logo_Gamed_V3.png' }],
   ],
+
+  markdown: {
+    lineNumbers: true,
+    container: {
+      tipLabel: 'TIPP',
+      warningLabel: 'ACHTUNG',
+      dangerLabel: 'GEFAHR',
+      infoLabel: 'INFO',
+      detailsLabel: 'Details'
+    }
+  },
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "./dww-logo.png",
+    logo: "assets/dww-logo.png",
+    externalLinkIcon: true,
+
+    search: {
+      provider: 'local',
+      options: {
+        locales: {
+          root: {
+            translations: {
+              button: {
+                buttonText: 'Suchen',
+                buttonAriaLabel: 'Suchen'
+              },
+              modal: {
+                noResultsText: 'Keine Ergebnisse gefunden',
+                resetButtonTitle: 'Suche zurücksetzen',
+                footer: {
+                  selectText: 'zum Auswählen',
+                  navigateText: 'zum Navigieren',
+                  closeText: 'zum Schließen'
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    lastUpdated: {
+      text: 'Zuletzt aktualisiert',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short'
+      }
+    },
 
     nav: [
       { text: 'Startseite', link: '/' },
@@ -30,14 +80,29 @@ export default defineConfig({
       { text: 'Wiki', link: '/sites/wiki-start' },
       { text: 'Impressum', link: '/sites/impressum' }
     ],
+    darkModeSwitchLabel: 'Erscheinungsbild',
+    lightModeSwitchTitle: 'Zum hellen Modus wechseln',
+    darkModeSwitchTitle: 'Zum dunklen Modus wechseln',
+    sidebarMenuLabel: 'Menü',
     footer: {
       message: 'Der Wilde Westen Roleplay',
       copyright: 'Made by Scott with ❤️'
+    },
+    docFooter: {
+      prev: 'Vorherige Seite',
+      next: 'Nächste Seite'
+    },
+    returnToTopLabel: 'Nach oben',
+
+    outline: {
+      level: [2, 3], // H2 & H3 Überschriften.
+      label: 'Lesezeichen auf dieser Seite'
     },
 
     sidebar: [
       {
         text: 'Allgemein',
+        collapsed: false,
         items: [
           { text: 'Charakter', link: '/sites/common/character' },
           { text: 'HUD', link: '/sites/common/hud'  },
@@ -51,6 +116,7 @@ export default defineConfig({
       },
       {
         text: 'Server Lore & Guides',
+        collapsed: false,
         items: [
           { text: 'State of Dakoma', link: '/sites/lore/server-lore' },
           { text: 'RP-Guide', link: '/sites/lore/rp-guide' },
@@ -58,6 +124,7 @@ export default defineConfig({
       },
       {
         text: 'Tastatur & Konsolenbefehle',
+        collapsed: false,
         items: [
           { text: 'Tastenbelegung', link: '/sites/keyboard-console/tastaturbelegung' },
           { text: 'Konsolenbefehle', link: '/sites/keyboard-console/konsolenbefehle' },
@@ -66,6 +133,7 @@ export default defineConfig({
       },
       {
         text: 'Rund um Gewerbe',
+        collapsed: false,
         items: [
           { text: 'Allgemeines', link: '/sites/society/allgemeines' },
           { text: 'Eigenes Gewerbe', link: '/sites/society/eigenes-gewerbe' },
@@ -78,6 +146,7 @@ export default defineConfig({
       },
       {
         text: 'TeamSpeak 3 & SaltyChat',
+        collapsed: false,
         items: [
           { text: 'SaltyChat', link: '/sites/teamspeak-salty/saltychat' },
           { text: 'TeamSpeak Sounds', link: '/sites/teamspeak-salty/sounds' },
@@ -86,6 +155,7 @@ export default defineConfig({
       },
       {
         text: 'Videoaufnahme',
+        collapsed: false,
         items: [
           { text: 'Medal.tv', link: '/sites/video/medal' },
           { text: 'NVIDIA Shadowplay', link: '/sites/video/nvsp' }
@@ -93,6 +163,7 @@ export default defineConfig({
       },
       {
         text: 'Technische Hilfe & Fehler',
+        collapsed: false,
         items: [
           { text: 'RedM Grafikeinstellungen', link: '/sites/technical/grafik-settings' },
           { text: 'RedM + Reshade', link: '/sites/technical/reshade' },
@@ -105,7 +176,8 @@ export default defineConfig({
           { text: 'Fehler: UI-Größe', link: '/sites/technical/resolution' },
           { text: 'Fehler: Rockstar Timeout', link: '/sites/technical/rockstar-block' },
           { 
-            text: 'Fehlermeldungen', 
+            text: 'Fehlermeldungen',
+            collapsed: true,
             items: [
               { text: 'Fehler: GFX_STATE_ERROR', link: '/sites/technical/redm-errors/gfx-state-error' },
               { text: 'Fehler: AUD_MIXER_INIT', link: '/sites/technical/redm-errors/aud-rage-error' },
