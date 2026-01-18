@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: doc
+sidebar: false
+aside: false
+next: false
 ---
 
 # Impressum
