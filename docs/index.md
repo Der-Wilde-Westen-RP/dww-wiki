@@ -35,7 +35,7 @@ features:
     title: Mehr als 2000 einzigartige Items
     details: ...unterstützen dich bei deinen Alltag im Wilden Westen des Jahres 1875. Brate dir verschiedene Fleischsorten, koche dein Wasser am Lagerfeuer ab, behandle deine Wunden mit Verbänden, rauche Zigaretten oder Zigarren oder trinke das beste Bier, den besten Scotch oder den besten Whiskey des Landes, während du dabei die neuesten Gerüchte in der countyweit erscheinenden Zeitung liest.
   - icon: 🏝
-    title: Bereise Guarma und nun auch Mexico!
+    title: Bereise Guarma!
     details: "Auf unserem RDR2 Roleplay Server bieten wir die aus dem Storymodus von Red Dead Redemption 2 bekannte Map-Erweiterung der Insel Guarma an.
     Nimm ein Schiff für die Überfahrt und entdecke den karibischen Flair der Tropeninsel – entweder zum Entspannen, oder um dich mit deiner Bande vor den Gesetzeshütern zu verstecken und deinen illegalen Geschäften so besser nachkommen zu können."
 ---
