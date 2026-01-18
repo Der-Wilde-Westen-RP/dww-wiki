@@ -1,2 +1,4 @@
 # Ignore all cache files.
 cache/
+node_modules/
+.idea/
