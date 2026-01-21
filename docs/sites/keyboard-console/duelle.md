@@ -6,7 +6,7 @@ Stellt unbedingt sicher, dass beide Kontrahenten vorab einen Revolver/eine Pisto
 
 ### 1. Wie starte ich ein Duell?
 
-Möchtest du dich duellieren, stelle dich mit deinem Gegner etwas abseits hin und gib in der Konsole (`Taste F8`) folgendes ein: `duel <Spieler-ID>`
+Möchtest du dich duellieren, stelle dich mit deinem Gegner etwas abseits hin und gib in der Konsole (`Taste F8`) folgendes ein: `duel2 <Spieler-ID>`
 
 Dein Gegner erhält eine Anfrage, die er mit der `Taste G` annehmen kann. Drückt er nichts, wird die Anfrage nach einigen Sekunden automatisch abgelehnt. 
 
