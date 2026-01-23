@@ -13,7 +13,7 @@ _Grundsätzlich kann jeder Spieler den Namen seines Charakters frei wählen, all
 
 ## Charaktergrößen
 
-Bei der Auswahl der Charaktergröße sind vier Optionen möglich, die Größen variieren von `sehr klein` bis `sehr groß`. 
+Bei der Auswahl der Charaktergröße sind vier Optionen möglich, die Größen variieren von `sehr klein` bis `größer`. 
 
 ![Übersicht der Charaktergrößen](../../assets/character-height.png)
 
