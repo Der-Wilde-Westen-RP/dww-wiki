@@ -13,7 +13,7 @@ _Grundsätzlich kann jeder Spieler den Namen seines Charakters frei wählen, all
 
 ## Charaktergrößen
 
-Bei der Auswahl der Charaktergröße sind die validen Optionen laut [Regelwerk](https://sites.google.com/view/dww-regelwerk#h.h0sflfkvp37w) auf Größen von `0.85` bis `1.0` limitiert. Es wird in Schritten von `0.5` hochgezählt.
+Bei der Auswahl der Charaktergröße sind vier Optionen möglich, die Größen variieren von `sehr klein` bis `sehr groß`. 
 
 ![Übersicht der Charaktergrößen](../../assets/character-height.png)
 
