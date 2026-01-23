@@ -6,7 +6,7 @@ Der "Charakter" ist deine Spielfigur, welche du auf Der Wilde Westen RP bespiels
 
 _Grundsätzlich kann jeder Spieler den Namen seines Charakters frei wählen, allerdings muss er gewissen Vorgaben des Serverteams entsprechen._<br><br>Was du beachten musst:
 
-- Der Name deines Charakters darf keinem Namen einer bekannten Person entsprechen. (z.B. Wyaat Earp, Billy the Kid, etc.)
+- Der Name deines Charakters darf keinem Namen einer bekannten realen / fiktiven Person entsprechen. (z.B. Jhonny Cash, Wyaat Earp, Billy the Kid, etc.)
 - Dein Name darf keine Sonderzeichen enthalten. Sonderzeichen sind z.B. `'`, `!`, `-`, usw. <Badge type="tip" text="Ä, Ö und Ü sind davon ausgenommen."/>
 - Der Name deines Charakters sollte bereits im Jahre `1875` vorhanden sein.
 - Beim Erstellen deines Charakters musst du darauf acht geben, dass du den Namen im Format `Vorname Nachname` eingibst, solltest du deinen Namen anders eingeben kann dies zu Anzeigefehlern führen.
