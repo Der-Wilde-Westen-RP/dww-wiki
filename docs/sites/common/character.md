@@ -6,7 +6,7 @@ Der "Charakter" ist deine Spielfigur, welche du auf Der Wilde Westen RP bespiels
 
 _Grundsätzlich kann jeder Spieler den Namen seines Charakters frei wählen, allerdings muss er gewissen Vorgaben des Serverteams entsprechen._<br><br>Was du beachten musst:
 
-- Der Name deines Charakters darf keinem Namen einer bekannten realen / fiktiven Person entsprechen. (z.B. Jhonny Cash, Wyaat Earp, Billy the Kid, etc.)
+- Der Name deines Charakters darf keinem Namen einer bekannten realen / fiktiven Person entsprechen. (z.B. Johnny Cash, Wyaat Earp, Billy the Kid, etc.)
 - Dein Name darf keine Sonderzeichen enthalten. Sonderzeichen sind z.B. `'`, `!`, `-`, usw. <Badge type="tip" text="Ä, Ö und Ü sind davon ausgenommen."/>
 - Der Name deines Charakters sollte bereits im Jahre `1875` vorhanden sein.
 - Beim Erstellen deines Charakters musst du darauf acht geben, dass du den Namen im Format `Vorname Nachname` eingibst, solltest du deinen Namen anders eingeben kann dies zu Anzeigefehlern führen.
@@ -23,7 +23,7 @@ Bei der Auswahl der Charaktergröße sind vier Optionen möglich, die Größen v
 Wie oben bereits angesprochen hat jeder Spieler die Möglichkeit einen Zweitcharakter zu bespielen, solange er die [Anforderungen](https://sites.google.com/view/dww-regelwerk#h.h0sflfkvp37w) für diesen erfüllt. Wenn der Wunsch nach einem Zweitcharakter besteht kann man im [Discord](https://discord.gg/dww-rp) ein Ticket der entsprechenden Kategorie eröffnen. Alle Informationen, die wir benötigen, stehen in der Nachricht wenn das Ticket eröffnet wird.
 
 ::: warning ACHTUNG
-Es besteht kein Anspruch auf einen Zweitcharakter. Das Serverteam behällt sich vor aufgrund von Regelverstößen den Zweitcharakter jederzeit zu entfernen. Es darf keine Interaktion zwischen Zweitcharakter und Hauptcharakter geben.
+Es besteht kein Anspruch auf einen Zweitcharakter. Das Serverteam behält sich vor aufgrund von Regelverstößen den Zweitcharakter jederzeit zu entfernen. Es darf keine Interaktion zwischen Zweitcharakter und Hauptcharakter geben.
 :::
 
 ## Charakterwechel und Chartod
