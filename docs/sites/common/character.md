@@ -6,32 +6,23 @@ Der "Charakter" ist deine Spielfigur, welche du auf Der Wilde Westen RP bespiels
 
 _Grundsätzlich kann jeder Spieler den Namen seines Charakters frei wählen, allerdings muss er gewissen Vorgaben des Serverteams entsprechen._<br><br>Was du beachten musst:
 
-- Der Name deines Charakters darf keinem Namen einer bekannten Person entsprechen. (z.B. Wyaat Earp, Billy the Kid, etc.)
+- Der Name deines Charakters darf keinem Namen einer bekannten realen / fiktiven Person entsprechen. (z.B. Johnny Cash, Wyaat Earp, Billy the Kid, etc.)
 - Dein Name darf keine Sonderzeichen enthalten. Sonderzeichen sind z.B. `'`, `!`, `-`, usw. <Badge type="tip" text="Ä, Ö und Ü sind davon ausgenommen."/>
 - Der Name deines Charakters sollte bereits im Jahre `1875` vorhanden sein.
 - Beim Erstellen deines Charakters musst du darauf acht geben, dass du den Namen im Format `Vorname Nachname` eingibst, solltest du deinen Namen anders eingeben kann dies zu Anzeigefehlern führen.
 
 ## Charaktergrößen
 
-Bei der Auswahl der Charaktergröße sind die validen Optionen laut [Regelwerk](https://sites.google.com/view/dww-regelwerk#h.h0sflfkvp37w) auf Größen von `0.85` bis `1.0` limitiert. Es wird in Schritten von `0.5` hochgezählt.
+Bei der Auswahl der Charaktergröße sind vier Optionen möglich, die Größen variieren von `sehr klein` bis `größer`. 
 
-![Übersicht der Charaktergrößen](../../assets/character-height.png)
 
-| Charaktergrößen |      Erlaubt?      |
-| :-------------: | :----------------: |
-|       0.8       |        :x:         |
-|      0.85       | :white_check_mark: |
-|       0.9       | :white_check_mark: |
-|      0.95       | :white_check_mark: |
-|       1.0       | :white_check_mark: |
-|       1.1       |        :x:         |
 
 ## Zweitcharaktere
 
 Wie oben bereits angesprochen hat jeder Spieler die Möglichkeit einen Zweitcharakter zu bespielen, solange er die [Anforderungen](https://sites.google.com/view/dww-regelwerk#h.h0sflfkvp37w) für diesen erfüllt. Wenn der Wunsch nach einem Zweitcharakter besteht kann man im [Discord](https://discord.gg/dww-rp) ein Ticket der entsprechenden Kategorie eröffnen. Alle Informationen, die wir benötigen, stehen in der Nachricht wenn das Ticket eröffnet wird.
 
 ::: warning ACHTUNG
-Es besteht kein Anspruch auf einen Zweitcharakter. Das Serverteam behällt sich vor aufgrund von Regelverstößen den Zweitcharakter jederzeit zu entfernen. Es darf keine Interaktion zwischen Zweitcharakter und Hauptcharakter geben.
+Es besteht kein Anspruch auf einen Zweitcharakter. Das Serverteam behält sich vor aufgrund von Regelverstößen den Zweitcharakter jederzeit zu entfernen. Es darf keine Interaktion zwischen Zweitcharakter und Hauptcharakter geben.
 :::
 
 ## Charakterwechel und Chartod
