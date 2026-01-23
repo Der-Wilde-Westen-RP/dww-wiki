@@ -17,14 +17,6 @@ Bei der Auswahl der Charaktergröße sind vier Optionen möglich, die Größen v
 
 ![Übersicht der Charaktergrößen](../../assets/character-height.png)
 
-| Charaktergrößen |      Erlaubt?      |
-| :-------------: | :----------------: |
-|       0.8       |        :x:         |
-|      0.85       | :white_check_mark: |
-|       0.9       | :white_check_mark: |
-|      0.95       | :white_check_mark: |
-|       1.0       | :white_check_mark: |
-|       1.1       |        :x:         |
 
 ## Zweitcharaktere
 
