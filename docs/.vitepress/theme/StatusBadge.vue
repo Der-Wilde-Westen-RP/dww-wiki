@@ -29,6 +29,7 @@ onMounted(async () => {
       statusText.value = 'Online'
     }
   } catch {
+    consol
     statusClass.value = 'grey'
     statusText.value = 'Unbekannt'
   }

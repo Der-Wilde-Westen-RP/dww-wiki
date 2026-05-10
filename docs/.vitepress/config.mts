@@ -75,6 +75,10 @@ export default defineConfig({
     },
 
     nav: [
+      {
+        component: 'StatusBadge'
+      },
+      { component: 'NavDivider' },
       { text: 'Startseite', link: '/' },
       { text: 'Website', link: 'https://der-wilde-westen-rp.de/' },
       { text: 'Wiki', link: '/sites/wiki-start' },

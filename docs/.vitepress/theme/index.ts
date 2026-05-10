@@ -4,15 +4,15 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import StatusBadge from "./StatusBadge.vue";
+import NavDivider from "./NavDivider.vue";
 
 export default {
   extends: DefaultTheme,
   enhanceApp({ app, router, siteData }) {
     app.component('StatusBadge', StatusBadge)
+    app.component('NavDivider', NavDivider)
   },
   Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      'nav-bar-content-before': () => h(StatusBadge)
-    })
+    return h(DefaultTheme.Layout, null, {})
   }
 } satisfies Theme
