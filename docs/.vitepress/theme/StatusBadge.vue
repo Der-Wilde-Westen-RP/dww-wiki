@@ -9,7 +9,7 @@
 import { ref, onMounted } from 'vue'
 
 const statusClass = ref('green')
-const statusText = ref('Alle Systeme operational')
+const statusText = ref('Online')
 
 onMounted(async () => {
   try {
@@ -20,9 +20,13 @@ onMounted(async () => {
           const latest = list[list.length - 1]
           return latest?.status === 0
         })
+
     if (hasIssue) {
       statusClass.value = 'red'
       statusText.value = 'Störung'
+    } else {
+      statusClass.value = 'green'
+      statusText.value = 'Online'
     }
   } catch {
     statusClass.value = 'grey'
