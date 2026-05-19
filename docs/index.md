@@ -8,7 +8,7 @@ hero:
   text: "Offizielles Wiki"
   tagline: Der Wilde Westen ist ein deutscher Mid-/Hardcore Roleplay-Server für das PC-Spiel Red Dead Redemption 2.
   image:
-    src: /assets/dww-logo.png
+    src: /assets/dww-splashart.png
     alt: dww-logo
   actions:
     - theme: brand
@@ -27,7 +27,7 @@ features:
     details: "Diversität und Flexibilität in jeder Form. Von der Herstellung bis zum Konsumenten, bietet der Server eine Fülle an Möglichkeiten und Optionen. Schneide dein Fleisch, koche dein Wasser ab und kümmere dich gut um deine Wunden. Mit über 1800 Items bilden sich realistische Prozessketten die sich in die spielerbasierte Marktwirtschaft einbetten."
   - icon: 📈
     title: Spielerbasiertes Wirtschaftssystem
-    details: Erlebe 1875 in einer fast ausschließlich Spielerkontrollierten Umgebung. Essenzielle Items sind ausschließlich von Spielern für Spieler! Gründe ein Gewerbe oder bilde als Freiberufler ein Teil der Marktwirtschaft des wilden Westes!
+    details: Erlebe 1875 in einer fast ausschließlich von Spielern kontrollierten Umgebung. Essenzielle Items sind ausschließlich von Spielern für Spieler! Gründe ein Gewerbe oder bilde als Freiberufler ein Teil der Marktwirtschaft des wilden Westes!
   - icon: 💼
     title: "Über 60 vollumfänglichen Berufe"
     details: Sei wer du willst! Die Systeme bieten dir eine Fülle an Berufen, mit denen du dich in der freien Wirtschaft beweisen und deine Leidenschaft ausleben kannst. Von Lockführer, Reporter und Bäcker bis hin zu den klassischen Berufen wie Arzt, Sheriff oder Rancher. Spiele deine Leidenschaft aus oder ziehe als Nomade mit deinem Camp durch das County.
