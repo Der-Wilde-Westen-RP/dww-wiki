@@ -4,18 +4,19 @@ Das HUD (Head-up display) zeigt dir im Spiel alle wichtigen Informationen zum St
 
 ## HUD-Elemente
 
-Das allgemeine HUD befindet sich unten links in der Ecke des Bildschirms. (_Zahlen 1-6 nur zur Nummerierung, im Spiel nicht vorhanden._)
+Das allgemeine HUD befindet sich unten links in der Ecke des Bildschirms. (_Zahlen 1-7 nur zur Nummerierung, im Spiel nicht vorhanden._)
 
 ![Der Wilde Westen HUD](../../assets/hud.png)
 
 | Nummer |                    Bedeutung                    | Mögliche Werte                                                                  |
-| :----- | :---------------------------------------------: | :------------------------------------------------------------------------------ |
+|:-------|:-----------------------------------------------:|:--------------------------------------------------------------------------------|
 | 1      |            [Trinken](metabolism.md)             | Nicht angezeigt => >75%<br> Weiß => 75%-50%<br>Gelb => 50%-25%<br>Rot => 25%-0% |
 | 2      |             [Essen](metabolism.md)              | Nicht angezeigt => >75%<br> Weiß => 75%-50%<br>Gelb => 50%-25%<br>Rot => 25%-0% |
-| 3      | [Temperatur](time-and-temperatur.md#temperatur) | Weiß => Normal<br>Blau => Zu kalt<br>Rot => Zu warm                             |
-| 4      |                Sprachreichweite                 | Weiß => Normal<br>Grün => Sprechen<br>Durchgestrichen => Gemuted                |
-| 5      |                   Gesundheit                    | Red Dead Redemption Standard                                                    |
-| 6      |                    Ausdauer                     | Red Dead Redemption Standard                                                    |
+| 3      |               32-Spieler-Warnung                | -                                                                               |
+| 4      | [Temperatur](time-and-temperatur.md#temperatur) | Weiß => Normal<br>Blau => Zu kalt<br>Rot => Zu warm                             |
+| 5      |                Sprachreichweite                 | Weiß => Normal<br>Grün => Sprechen<br>Durchgestrichen => Gemuted                |
+| 6      |                   Gesundheit                    | Red Dead Redemption Standard                                                    |
+| 7      |                    Ausdauer                     | Red Dead Redemption Standard                                                    |
 
 ## 32 Spieler Warnung
 
