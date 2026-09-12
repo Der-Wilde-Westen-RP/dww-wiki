@@ -28,9 +28,7 @@ Während du bewusstlos bist, kannst du dem Arzt im TeamSpeak ein Nachricht mit d
 
 Du hast nach einer bestimmten Zeitspanne die Möglichkeit, die Taste “E” zu drücken (wird nicht immer angezeigt) und zu respawnen. Bei letzterem wirst du automatisch zum “Notarzt” gebracht, verlierst allerdings alle Gegenstände sowie dein Geld. Das mag zwar weh tun, ist aber die beste Möglichkeit, um die “Dein Leben ist das höchste Gut”-Regel effektiv durchzusetzen. Bei der Behandlung durch den Notarzt kannst du dich danach nicht mehr daran erinnern, was passiert ist.
 
-Bitte denke daran, dass du dich während der Bewusstlosigkeit im Teamspeak muten solltest - dies passiert nicht automatisch. Solltest du einen clientseitigen Crash haben, während du bewusstlos bist, wirst du beim erneuten Einloggen automatisch zum Notarzt gebracht und verlierst deine Gegenstände. 
-
-Bei einem serverseitigen Crash - wir reden hier von einem Crash, nicht von angekündigten Neustarts - kann mit Videobeweis eine Erstattung durchgeführt werden. 
+Bitte denke daran, dass du dich während der Bewusstlosigkeit im Teamspeak muten solltest - dies passiert nicht automatisch.
 
 ## Gamecrash auf dem Weg zum Arzt, was nun?
 <Badge type="danger" text="Ein clientseitiger Crash ist kein Erstattungsgrund."/>
