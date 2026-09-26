@@ -116,6 +116,7 @@ export default defineConfig({
           { text: 'Standardsituationen', link: '/sites/common/situations' },
           { text: 'IC-Teammitglieder', link: '/sites/common/admins' },
           { text: 'Steam-ID / Discord-ID', link: '/sites/common/steam-and-discord-id' },
+          { text: 'Housing-Guide', link: '/sites/common/housing-guide' },
         ]
       },
       {
