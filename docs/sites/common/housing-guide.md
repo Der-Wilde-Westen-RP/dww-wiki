@@ -33,9 +33,16 @@ Achte selbstständig darauf, die Steuern rechtzeitig zu entrichten. Nach Ablauf 
 
 ## Darf ich meine Immobilie selbst verkaufen?
 
-Nein. Ein direkter Verkauf einer Immobilie an einen anderen Spieler ist nicht möglich.
+Ja. Eine Immobilie kann an einen anderen Spieler weitergegeben werden.
 
-Du kannst dein Haus lediglich **aufgeben**. Dabei erhältst du keine Erstattung für die Immobilie oder bereits getätigte Ausgaben.
+Bei der Weitergabe werden **25 % des ursprünglichen Kaufpreises** des Hauses fällig.
+
+Der aktuelle Zustand der Immobilie bleibt bei der Übergabe vollständig erhalten. Dazu gehören insbesondere:
+
+- das **Kassenbuch**
+- bereits **platzierte Props / Möbel**
+
+Die Immobilie wird somit im bestehenden Zustand an den neuen Eigentümer übergeben.
 
 ## Kann mein Haus einfach weggenommen werden?
 
