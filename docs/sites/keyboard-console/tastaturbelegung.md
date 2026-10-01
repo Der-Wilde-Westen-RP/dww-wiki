@@ -34,7 +34,7 @@ bindings-prop='[
 {"keyLabel":"X","description":"Sprachreichweite ändern"},
 {"keyLabel":"L","description":"Interaktionen mit Gegenständen"},
 {"keyLabel":"H","description":"Pferd rufen"},
-{"keyLabel":"N","description":"(halen) In Blickrichtung zeigen"},
+{"keyLabel":"N","description":"(halten) In Blickrichtung zeigen"},
 {"keyLabel":"J","description":"Kutsche rufen"}
 ]'
 />
