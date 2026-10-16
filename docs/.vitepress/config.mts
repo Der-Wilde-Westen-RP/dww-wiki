@@ -82,6 +82,7 @@ export default defineConfig({
       { text: 'Startseite', link: '/' },
       { text: 'Website', link: 'https://der-wilde-westen-rp.de/' },
       { text: 'Wiki', link: '/sites/wiki-start' },
+      { text: '128-Spieler-Konfiguration', link: '/sites/technical/128-player-change' },
       { text: 'Impressum', link: '/sites/impressum' }
     ],
     darkModeSwitchLabel: 'Erscheinungsbild',
