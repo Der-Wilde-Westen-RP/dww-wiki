@@ -25,7 +25,7 @@ Wie oben bereits angesprochen hat jeder Spieler die Möglichkeit einen Zweitchar
 Es besteht kein Anspruch auf einen Zweitcharakter. Das Serverteam behält sich vor aufgrund von Regelverstößen den Zweitcharakter jederzeit zu entfernen. Es darf keine Interaktion zwischen Zweitcharakter und Hauptcharakter geben.
 :::
 
-## Charakterwechel und Chartod
+## Charakterwechsel und Char-Tod
 
 <Badge type="danger" text="Ein Charaktertod ist entgültig und kann nicht vom Support rückgängig gemacht werden."/>
 
