@@ -30,4 +30,4 @@ Solltest du nicht wissen wo du diesen findest, kannst du in der Windows Suchleis
 
 6. Starte den Rockstar Launcher und den Launcher über welchen du Red Dead Redemption 2 gekauft hast und starte dann RedM. 
 
-7. Zuletzt bestätigst du beim Start von RedM den Zugriff für dein öffentliches und private Netzwerk.
+7. Zuletzt bestätigst du beim Start von RedM den Zugriff für dein öffentliches und privates Netzwerk.

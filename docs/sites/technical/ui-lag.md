@@ -1,7 +1,7 @@
 # UI-LAG
 <Badge type="warning" text="Fehlerbehebung durch Nykatas."/>
 
-Teilweise kann es vorkommen, dass Ingame-UIs (z.B. Inventar, F6-Menu, Telegramm-Menu, etc.) eine sehr starke Verzögerung haben. Ihr könne dieses Problem lösen, indem Ihr die unten beschriebenen Schritt befolgt.
+Teilweise kann es vorkommen, dass Ingame-UIs (z.B. Inventar, F6-Menu, Telegramm-Menu, etc.) eine sehr starke Verzögerung haben. Ihr könnt dieses Problem lösen, indem Ihr die unten beschriebenen Schritte befolgt.
 
 ## RedM Änderung
 
@@ -25,7 +25,7 @@ Teilweise kann es vorkommen, dass Ingame-UIs (z.B. Inventar, F6-Menu, Telegramm-
 
 ### Schritt 3
 
-Füge in der Datei eine Zeile hinzu, welche foldendes enthällt:
+Füge in der Datei eine Zeile hinzu, welche folgendes enthält:
 
 ```txt
 seta "nui_useInProcessGpu" "true"

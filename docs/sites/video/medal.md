@@ -5,7 +5,7 @@ Gehe zum Installieren des Programmes auf die [Website](https://medal.tv/de) von 
 
 Sobald die Installation abgeschlossen ist, wirst du aufgefordert, einen Hotkey zu wählen. Wenn du die Standardtaste nicht verwenden möchten, kannst du hier selbst einen Taste bzw. Tastenkombination festlegen.
 
-Direkt nach dem Drücken des Hotkeys erklingt ein Ton und und dein Clip der letzten Minuten wurde gespeichert. Die Aufnahmeparameter sind in dein Einstellungen änderbar.
+Direkt nach dem Drücken des Hotkeys erklingt ein Ton und dein Clip der letzten Minuten wurde gespeichert. Die Aufnahmeparameter sind in deinen Einstellungen änderbar.
 
 ![Medal - Einstellungen #1](../../assets/medal-one.png)
 
