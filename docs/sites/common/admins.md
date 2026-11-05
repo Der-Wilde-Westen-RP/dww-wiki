@@ -1,6 +1,6 @@
 # TEAMMITGLIEDER IC
 
-Mitglieder des Serverteams kümmern sich um den reibungslosen Ablauf im Spiel. Dazu müssen Sie zwangsweise in ihrer Suppottätigkeit erkenntlich sein.
+Mitglieder des Serverteams kümmern sich um den reibungslosen Ablauf im Spiel. Dazu müssen Sie zwangsweise in ihrer Supporttätigkeit erkenntlich sein.
 
 ## Wie erkenne ich ein Teammitglied, wenn ich es IC sehe?
 
@@ -14,7 +14,7 @@ _Hier ein Beispiel des Admin-Tags:_
 
 ## Wie verhalte ich mich, wenn ich ein Teammitglied IC sehe?
 
-Grundsätzlich werden Teammitglieder IC nichtmals angespielt. Solltet Ihr ein Teammitglied sehen so ist diese Person für euren Charakter nicht sichtbar. Alle Anspielungen von anderen Spielern können gänzlich ignoriert werden. Desweiteren sind keine Ausdrücke wie "_Hier ist ein komischer Windzug._" oder "_Ich habe das Gefühl wir werden beobachtet._" etc. gewünscht. 
+Grundsätzlich werden Teammitglieder IC niemals angespielt. Solltet Ihr ein Teammitglied sehen so ist diese Person für euren Charakter nicht sichtbar. Alle Anspielungen von anderen Spielern können gänzlich ignoriert werden. Desweiteren sind keine Ausdrücke wie "_Hier ist ein komischer Windzug._" oder "_Ich habe das Gefühl wir werden beobachtet._" etc. gewünscht. 
 
 Sollte ein Teammitglied von selbst auf euch zukommen ist die aktuelle RP-Situation solange zu unterbrechen, wie die Kommunikation stattfindet es sei denn das Teammitglied vor Ort trifft eine andere Aussage.
 
