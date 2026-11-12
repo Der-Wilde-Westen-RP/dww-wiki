@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "@types/node": "^26.6.6",
     "medium-zoom": "^1.1.0",
     "vitepress": "^1.6.4",
     "vue": "^3.5.26"

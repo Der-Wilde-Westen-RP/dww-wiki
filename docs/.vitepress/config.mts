@@ -1,4 +1,31 @@
-import { defineConfig } from 'vitepress'
+import {ContentData, createContentLoader, defineConfig} from 'vitepress'
+// @ts-ignore
+import path from 'node:path'
+import {mkdirSync, writeFileSync} from "node:fs";
+
+async function siteToJson(page: ContentData) {
+  if (!page) {
+    return JSON.stringify({ success: false, error: 'Seite nicht gefunden.' })
+  }
+
+  const hasFrontmatter = Object.keys(page.frontmatter ?? {}).length > 0
+  const html = hasFrontmatter
+    ? (page.html ?? '').replace(/^\s*<hr>\s*<h2[^>]*>[\s\S]*?<\/h2>\s*/, '')
+    : (page.html ?? '')
+
+  const h1 = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)?.[1]
+  const h1Text = h1
+      ?.replace(/<a[^>]*class="header-anchor"[\s\S]*?<\/a>/i, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\u200B/g, '')
+      .trim()
+
+  return JSON.stringify({
+    success: true,
+    title: page.frontmatter.title ?? h1Text ?? null,
+    html
+  })
+}
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -80,6 +107,7 @@ export default defineConfig({
       },
       { component: 'NavDivider' },
       { text: 'Startseite', link: '/' },
+      { text: 'Regelwerk', link: '/sites/regelwerk' },
       { text: 'Website', link: 'https://der-wilde-westen-rp.de/' },
       { text: 'Wiki', link: '/sites/wiki-start' },
       { text: '128-Spieler-Konfiguration', link: '/sites/technical/128-player-change' },
@@ -206,5 +234,17 @@ export default defineConfig({
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/dww-rp' }
     ]
+  },
+
+  async buildEnd(siteConfig) {
+    const [page] = await createContentLoader('sites/regelwerk.md', { render: true }).load()
+
+    const file = path.join(siteConfig.outDir, 'api', 'regelwerk.json')
+    mkdirSync(path.dirname(file), { recursive: true })
+
+    writeFileSync(
+        file,
+        await siteToJson(page)
+    )
   }
 })
