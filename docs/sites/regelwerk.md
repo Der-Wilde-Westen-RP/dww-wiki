@@ -125,8 +125,11 @@ next: false
 5. Bloodin-Regelung
 
    a) Zwischen Spielern oder Gruppen kann ein sogenannter Blutschwur (Bloodin) vereinbart werden. Dieser muss im Support angemeldet werden (mit Clip) und im Roleplay 	ausgespielt sein. Im Support werden dann die Blood-In Bedingungen nochmals festgelegt.
+   
    b) Vereidigungen von Spielern zählen als Bloodin einer Fraktion. Infolge von schweren Verstößen kann im Zuge des Hochverrats zu einer Hängung kommen.
+   
    c) Regelungen, Voraussetzungen und Änderungen eines Bloodin-Status sind via Supportticket zu melden.
+   
    d) Ein Bloodout erlaubt die Hinrichtung eines Charakters ohne erneuten Antrag. Die Vorraussetzungen des Bloodins müssen hierfür erfüllt sein. Ein Bloodout ist vorab im 	Support anzumelden. Bloodouts werden vom Support in der Regel beobachtet, damit diese Regelkonform ablaufen.
 
 6. Ein Wechsel des Charakters muss plausibel dargelegt werden und alle Roleplay-Stränge abgehandelt worden sein. Der Support prüft das neue Charakterkonzept. Der bisherige Charakter sollte bereits seit 4 Wochen bestehen.
@@ -176,11 +179,17 @@ next: false
 2. Der Support führt ein Gespräch mit beiden Konfliktparteien. Diese können sich über folgende Punkte einigen:
 
    a) Sperrzeiten / Kampfzeiten
+   
    b) Regeln für den Konflikt (z.B. Schusswaffengebrauch auf Sicht)
+   
    c) Dauer des Konfliktes (max. 2 Kalenderwochen)
+   
    d) Ziel des Konfliktes
+
    e) Sieg- / Aufgabebedingungen
+   
    f) Vereinbarung von Kriegsbeute (z.B. Waffen abnehmen)
+   
    g) ggfs. Hinrichtungsanträge
 
 3. Bei einer eskalierten Auseinandersetzung kann die teilnehmende Spielerzahl festgelegt werden.
