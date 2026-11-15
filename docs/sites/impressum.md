@@ -9,9 +9,9 @@ next: false
 
 ## Angaben gemäß § 5 TMG
 
-Der wilde Westen – Roleplay
-c/o Dirk Zeiher
-Lindenstraße 26
+Der wilde Westen – Roleplay\
+c/o Dirk Zeiher\
+Lindenstraße 26\
 72411 Bodelshausen
 
 ## Kontakt
