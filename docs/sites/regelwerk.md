@@ -161,7 +161,7 @@ next: false
 
 4. Leiter und deren direkte Stellvertreter von Fraktionen haben in Ihrem Amt neutral zu entscheiden und alle Spieler gleich zu behandeln.
 
-5. Korrupte Handlungen müssen Ingame nachvollzogen werden können.
+5. Korrupte Handlungen müssen im Spiel nachvollzogen werden können.
 
 ## §13 Fulltime-Crime-Banden/Kriegerstämme
 
@@ -202,9 +202,9 @@ next: false
 
 1. Während man eingeloggt ist, findet die Voice-Kommunikation ausschließlich über TeamSpeak3 (`193.111.198.190` oder `ts3.der-wilde-westen-rp.de`) mit dem Salty-Chat Plugin in der Version 4.1.0 oder bei Bildschirm-Übertragungen in den Community-Talks des öffentlichen Discords statt. Andere Voice-Programme dürfen parallel nicht genutzt werden.
 
-2. Weitere Informationen die Ingame verwendet werden dürfen befinden sich in den gekennzeichneten offiziellen Discords.
+2. Weitere Informationen, die im Spiel verwendet werden dürfen, befinden sich in den gekennzeichneten offiziellen Discords.
 
-3. Sollte es aufgrund technischer Themen dazu kommen, dass eine Person nicht das sieht, was sie ingame sehen können sollte, darf dies via Stream auf dem offiziellen Discord übertragen werden (z.B. Buch mitlesen).
+3. Sollte es aufgrund technischer Themen dazu kommen, dass eine Person nicht das sieht, was sie im Spiel sehen können sollte, darf dies via Stream auf dem offiziellen Discord übertragen werden (z.B. Buch mitlesen).
 
 4. Technische Tools wie Soundboards oder Stimmverzerrer müssen realistisch zum Roleplay passen.
 
@@ -238,8 +238,8 @@ next: false
 
 8. Grundsätzlich behält sich die Projektleitung vor, im Rahmen des Hausrechts Einzelfallentscheidungen zu treffen, welche von diesem Regelwerk abweichen oder im Regelwerk nicht erfasst sind.
 
-9. Aufnahmen dürfen nur Ingame stattfinden. Andere Aufnahmen sind nur nach ausdrücklicher Zustimmung der anwesenden Person(en) zulässig. Support-Gespräche dürfen generell nicht aufgenommen werden.
+9. Aufnahmen dürfen nur im SPiel stattfinden. Andere Aufnahmen sind nur nach ausdrücklicher Zustimmung der anwesenden Person(en) zulässig. Support-Gespräche dürfen generell nicht aufgenommen werden.
 
 10. Falsche Aussagen gegenüber oder Irreführung von Teammitgliedern ist nicht gestattet.
 
-11. Jeder Nutzer unseres Projektes bestätigt, dass für die Nutzung des Spielbetriebes oder der Zuordnung einer Person (z.B. SteamID, DiscordID, etc.) gespeichert und verarbeitet werden dürfen.
+11. Jeder Nutzer unseres Projektes bestätigt, dass für die Nutzung des Spielbetriebes oder der Zuordnung einer Person (z.B. DiscordID, RedM License, IP-Adresse, etc.) gespeichert und verarbeitet werden dürfen.
