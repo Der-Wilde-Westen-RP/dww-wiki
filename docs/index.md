@@ -27,12 +27,12 @@ features:
     details: "Diversität und Flexibilität in jeder Form. Von der Herstellung bis zum Konsumenten, bietet der Server eine Fülle an Möglichkeiten und Optionen. Schneide dein Fleisch, koche dein Wasser ab und kümmere dich gut um deine Wunden. Mit über 1800 Items bilden sich realistische Prozessketten die sich in die spielerbasierte Marktwirtschaft einbetten."
   - icon: 📈
     title: Spielerbasiertes Wirtschaftssystem
-    details: Erlebe 1875 in einer fast ausschließlich von Spielern kontrollierten Umgebung. Essenzielle Items sind ausschließlich von Spielern für Spieler! Gründe ein Gewerbe oder bilde als Freiberufler ein Teil der Marktwirtschaft des wilden Westes!
+    details: Erlebe 1875 in einer fast ausschließlich von Spielern kontrollierten Umgebung. Essenzielle Items sind ausschließlich von Spielern für Spieler! Gründe ein Gewerbe oder bilde als Freiberufler ein Teil der Marktwirtschaft des wilden Westens!
   - icon: 💼
-    title: "Über 60 vollumfänglichen Berufe"
+    title: "Über 40 vollumfänglichen Berufe"
     details: Sei wer du willst! Die Systeme bieten dir eine Fülle an Berufen, mit denen du dich in der freien Wirtschaft beweisen und deine Leidenschaft ausleben kannst. Von Lockführer, Reporter und Bäcker bis hin zu den klassischen Berufen wie Arzt, Sheriff oder Rancher. Spiele deine Leidenschaft aus oder ziehe als Nomade mit deinem Camp durch das County.
   - icon: 👑
-    title: Mehr als 2000 einzigartige Items
+    title: Mehr als 4100 einzigartige Items
     details: ...unterstützen dich bei deinen Alltag im Wilden Westen des Jahres 1875. Brate dir verschiedene Fleischsorten, koche dein Wasser am Lagerfeuer ab, behandle deine Wunden mit Verbänden, rauche Zigaretten oder Zigarren oder trinke das beste Bier, den besten Scotch oder den besten Whiskey des Landes, während du dabei die neuesten Gerüchte in der countyweit erscheinenden Zeitung liest.
   - icon: 🏝
     title: Bereise Guarma!
