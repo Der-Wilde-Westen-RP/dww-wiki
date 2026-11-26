@@ -246,4 +246,4 @@ next: false
 
 12. Mit dem Spielen auf dem Projekt wird automatisch allen Drittanbieter-Software ToS zugestimmt (bspw. den [Discord Terms of Service](https://discord.com/terms) und den [allgemeinen Geschäftsbedingungen von TeamSpeak](https://www.teamspeak.com/de/terms-and-conditions/)). Explizit hervorgehoben wird folgendes:
 
-<Badge type="danger" text="Nach den [Discord Terms of Service](https://discord.com/terms) sind Modifikationen des Discord Clients (z.B. BetterDiscord, Equicord, Hase, Bunny oder Replugged) verboten. Das nutzen von derartigen Modifikationen führt zu einem permanenten Ausschluss von dem Projekt & einer Whitelist-Sperre." />
+<Badge type="danger" text="BEISPIEL: Nach den Discord Terms of Service sind Modifikationen des Discord Clients (z.B. BetterDiscord, Equicord, Hase, Bunny oder Replugged) verboten. Das nutzen von derartigen Modifikationen führt zu einem permanenten Ausschluss von dem Projekt & einer Whitelist-Sperre." />
