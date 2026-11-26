@@ -244,6 +244,6 @@ next: false
 
 11. Jeder Nutzer unseres Projektes bestätigt, dass für die Nutzung des Spielbetriebes oder der Zuordnung einer Person (z.B. DiscordID, RedM License, IP-Adresse, etc.) gespeichert und verarbeitet werden dürfen.
 
-12. Mit dem Spielen auf dem Projekt wird automatisch allen Drittanbieter-Software ToS zugestimmt (bspw. den [Discord Terms of Service](https://discord.com/terms) und den [allgemeinen Geschäftsbedingungen von TeamSpeak](https://www.teamspeak.com/de/terms-and-conditions/)). Explizit hervorgehoben wird folgendes:
+12. Mit dem Spielen auf dem Projekt wird automatisch allen Drittanbieter-Software ToS zugestimmt (bspw. den [Discord Terms of Service](https://discord.com/terms), den [allgemeinen Geschäftsbedingungen von TeamSpeak](https://www.teamspeak.com/de/terms-and-conditions/) und den [Twitch Nutzungsbedingungen](https://legal.twitch.com/de-de/legal/terms-of-service/)).
 
-<Badge type="danger" text="BEISPIEL: Nach den Discord Terms of Service sind Modifikationen des Discord Clients (z.B. BetterDiscord, Equicord, Hase, Bunny oder Replugged) verboten. Das nutzen von derartigen Modifikationen führt zu einem permanenten Ausschluss von dem Projekt & einer Whitelist-Sperre." />
+<Badge type="danger" text="BEISPIEL: Nach den Discord Terms of Service sind Modifikationen des Discord Clients (z.B. BetterDiscord, Equicord, Hase, Bunny oder Replugged) verboten. Das Nutzen von derartigen Modifikationen führt zu einem permanenten Ausschluss von dem Projekt & einer Whitelist-Sperre." />
