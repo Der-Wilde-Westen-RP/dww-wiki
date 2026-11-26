@@ -189,3 +189,16 @@
     width: 100%;
     height: auto;
 }
+
+/**
+ * TOC: Disable dots.
+ */
+
+.toc-plain .vp-doc .table-of-contents ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.toc-plain .vp-doc .table-of-contents ul ul {
+    padding-left: 1.25rem;
+}

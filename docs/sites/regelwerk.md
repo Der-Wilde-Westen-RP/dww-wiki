@@ -3,6 +3,7 @@ layout: doc
 sidebar: false
 aside: false
 next: false
+pageClass: toc-plain
 ---
 
 # REGELWERK
