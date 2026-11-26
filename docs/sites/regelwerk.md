@@ -238,7 +238,7 @@ next: false
 
 8. Grundsätzlich behält sich die Projektleitung vor, im Rahmen des Hausrechts Einzelfallentscheidungen zu treffen, welche von diesem Regelwerk abweichen oder im Regelwerk nicht erfasst sind.
 
-9. Aufnahmen dürfen nur im SPiel stattfinden. Andere Aufnahmen sind nur nach ausdrücklicher Zustimmung der anwesenden Person(en) zulässig. Support-Gespräche dürfen generell nicht aufgenommen werden.
+9. Aufnahmen dürfen nur im Spiel stattfinden. Andere Aufnahmen sind nur nach ausdrücklicher Zustimmung der anwesenden Person(en) zulässig. Support-Gespräche dürfen generell nicht aufgenommen werden.
 
 10. Falsche Aussagen gegenüber oder Irreführung von Teammitgliedern ist nicht gestattet.
 
