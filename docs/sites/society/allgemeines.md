@@ -9,7 +9,7 @@ Sollte dies leider untergegangen sein, so könnt ihr euch an den `Support` auf u
 
 ## Darf ich mehrere Berufe gleichzeitig ausüben?
 
-Aktuell ist es auf Der Wilde Westen RP nicht möglich mehrere Berufe gleichzeitig auszuüben. Das aktuelle System ist nicht auf `Multi-Job` ausgelegt, auch wenn einige Spieler die Möglichkeit besitzen ihren Beruf zu wechseln und somit "mehrere Jobs haben könnten".
+Das Ausüben von mehreren Berufen ist auf DwW möglich! Die genauen Regelungen und Einschränkungen dazu sind im [Regelwerk](../regelwerk) zu finden. Der Zugriff findet über `F6` im Radial-Menu unter der Zugriffsverwaltung statt.
 
 ## Wie kann ich ein neues Rezept einreichen?
 
