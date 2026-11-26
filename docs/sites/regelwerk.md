@@ -218,7 +218,7 @@ next: false
 
 2. meChat & Szenen-Nachrichten dürfen ausschließlich Dinge beschreiben, welche die andere Person sehen könnte.
 
-3. Jeder Spieler hat die Möglichkeit den meChat/Szenen-Nachrichten für sich zu deaktivieren (erkennbar wenn man U drückt). Diese Spieler dürfen auch nicht auf meChat/Szenen-Nachrichten angespielt werden.
+3. Jeder Spieler hat die Möglichkeit den meChat/Szenen-Nachrichten für sich zu deaktivieren (erkennbar, wenn man U drückt). Diese Spieler dürfen auch nicht auf meChat/Szenen-Nachrichten angespielt werden.
 
 ## §17 Allgemeine Regelungen zum Projekt
 
@@ -243,3 +243,7 @@ next: false
 10. Falsche Aussagen gegenüber oder Irreführung von Teammitgliedern ist nicht gestattet.
 
 11. Jeder Nutzer unseres Projektes bestätigt, dass für die Nutzung des Spielbetriebes oder der Zuordnung einer Person (z.B. DiscordID, RedM License, IP-Adresse, etc.) gespeichert und verarbeitet werden dürfen.
+
+12. Mit dem Spielen auf dem Projekt wird automatisch allen Drittanbieter-Software ToS zugestimmt (bspw. den [Discord Terms of Service](https://discord.com/terms) und den [allgemeinen Geschäftsbedingungen von TeamSpeak](https://www.teamspeak.com/de/terms-and-conditions/)). Explizit hervorgehoben wird folgendes:
+
+<Badge type="danger" text="Nach den [Discord Terms of Service](https://discord.com/terms) sind Modifikationen des Discord Clients (z.B. BetterDiscord, Equicord, Hase, Bunny oder Replugged) verboten. Das nutzen von derartigen Modifikationen führt zu einem permanenten Ausschluss von dem Projekt & einer Whitelist-Sperre." />
