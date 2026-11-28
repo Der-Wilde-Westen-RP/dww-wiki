@@ -104,7 +104,7 @@ pageClass: toc-plain
 
 <Badge type="warning" text="Das Diebesgut muss 30 Minuten bei den Tätern getragen werden und darf generell zurück gestohlen werden." />
 
-2. Ausnahmen für vom Support genehmigte Fulltime-Crime-Banden: siehe §12 Abs. 3.
+2. Ausnahmen für vom Support genehmigte Fulltime-Crime-Banden: siehe §13 Abs. 2.
 
 3. Das Lasso darf nicht als Waffe eingesetzt werden, um einen anderen Spieler unmittelbar handlungsunfähig zu machen (direktes Fessel / nach dem Fang hinter sich herziehen, o.ä). Analog einer „OneShot“-Waffe muss der Gegenpartei die Chance geboten werden, auf das Roleplay einzugehen, um die Situation zu entschärfen. Ausnahme: Die Handlung wird eindeutig unter Einhaltung einer Reaktionszeit angekündigt.
 
@@ -168,7 +168,7 @@ pageClass: toc-plain
 
 1. Fulltime-Crime-Banden / Kriegerstämme müssen sich im Support schriftlich bewerben. Für Handlungen gegen die Full-Crime Regeln ist neben dem Mitglied auch der Anführer verantwortlich.
 
-2. Fulltime-Crime-Banden / Kriegerstämme dürfen nur allein oder mit Mitgliedern anderer Full-Crime-Banden / Kriegerstämmen sowie der Banden-Fraktion Thieves Landing agieren, wenn diese einen der folgenden Vorteile nutzen wollen:
+2. Fulltime-Crime-Banden / Kriegerstämme dürfen nur allein oder mit Mitgliedern anderer Full-Crime-Banden / Kriegerstämmen agieren, wenn diese einen der folgenden Vorteile nutzen wollen:
 
 - Einmal pro Kalenderwoche darf die Bande auch ein geschütztes Gewehr oder Pistole (Rolling Block, Volcanic Pistole und Schrotflinte) abnehmen. Es gilt die Regelung, dass die Person mehr als 2 Patronen-Waffen und/oder Bogen im Inventar oder verwendeten Pferd/Kutsche mitführt.
 - Für Überfälle jeglicher Art gibt es für Full-Crime-Banden keine maximale Begrenzung. 
